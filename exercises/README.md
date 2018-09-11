@@ -1,0 +1,3 @@
+# Exercises
+
+Learning exercises repository
