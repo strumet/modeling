@@ -19,9 +19,9 @@ Ad esempio, lo studente il cui numero di matricola è 741854 che esegue l'eserci
 contenuto nella cartella *joined*) dovrà produrre i file _**741854-12-LP.obj**_ (senza l'algoritmo 
 di suddivisione applicato) e _**741854-12.obj**_ (con l'algoritmo di suddivisione applicato).
 
-> \***ATTENZIONE:** *L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
+> \***ATTENZIONE:** _L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
 dell'algoritmo di suddivisione. La somiglianza con l'immagine di riferimento andrà pertanto ricercata unicamente 
-nel modello su cui è applcato l'*OpenSubdiv
+nel modello su cui è applcato l'_OpenSubdiv
 
 Tutti i file dovranno essere caricati nella cartella *exercises* del **proprio repository**
 (non nelle sottocartelle) ed **inoltrati al docente tramite _pull request_**.
