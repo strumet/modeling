@@ -7,7 +7,7 @@ Per ogni esercizio - contenuto nelle cartelle *base*, *hard_surfaces*, *holed*, 
 è disponibile un'immagine in cui è illustrato l'oggetto da modellare.   
 Ogni studente è **libero di scegliere quali e quanti esercizi affrontare** (anche più volte in caso di esito non soddisfacente).
 
-Per ogni esercizio devono essere consegnati **2 file in formato _obj_**:
+Per ogni esercizio devono essere consegnati **2 file in formato _obj_ dello STESSO MODELLO**\*:
 
 - una versione del modello **SENZA** l'applicazione dell'algoritmo di suddivisione
 - una versione dello stesso modello **su cui è applicato l'algoritmo di suddivisione**
@@ -18,6 +18,10 @@ Nel secondo caso il modello dovrà essere denominato secondo la forma **_NUMEROM
 Ad esempio, lo studente il cui numero di matricola è 741854 che esegue l'esercizio 12 (file *EXE-12.png* 
 contenuto nella cartella *joined*) dovrà produrre i file _**741854-12-LP.obj**_ (senza l'algoritmo 
 di suddivisione applicato) e _**741854-12.obj**_ (con l'algoritmo di suddivisione applicato).
+
+> \***ATTENZIONE:** *L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
+dell'algoritmo di suddivisione. La somiglianza con l'immagine di riferimento andrà pertanto ricercata unicamente 
+nel modello su cui è applcato l'*OpenSubdiv
 
 Tutti i file dovranno essere caricati nella cartella *exercises* del **proprio repository**
 (non nelle sottocartelle) ed **inoltrati al docente tramite _pull request_**.
