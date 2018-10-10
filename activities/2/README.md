@@ -2,7 +2,7 @@
 
 Modellare l'oggetto indicato nell'elenco in fondo alla pagina accanto al proprio numero di matricola.
 
-Ogni studente deve consegnare **2 file in formato _obj_ dello STESSO MODELLO**\*:
+Ogni studente deve consegnare **2 file in formato _obj_\* dello STESSO MODELLO**\*\*:
 
 - una versione **SENZA** l'applicazione dell'algoritmo di suddivisione
 - una versione **su cui è applicato l'algoritmo di suddivisione**
@@ -17,7 +17,11 @@ di suddivisione applicato) e _**741854-12.obj**_ (con l'algoritmo di suddivision
 I due file dovranno essere caricati nella cartella *activities/2/* del **proprio repository**
 ed **inoltrati al docente tramite _pull request_**.
 
-> \***ATTENZIONE:** *L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
+> \* Per l'esportazione in formato obj da 3DS Max utilizzare i parametri indicati nell'immagine
+
+![export_obj](https://github.com/strumet/modeling/raw/master/archive/obj_export.png)
+
+> \*\***ATTENZIONE:** *L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
 dell'algoritmo di suddivisione. La somiglianza con l'immagine di riferimento andrà pertanto ricercata unicamente 
 nel modello su cui è applcato l'*OpenSubdiv
 

@@ -7,7 +7,7 @@ Per ogni esercizio - contenuto nelle cartelle *base*, *hard_surfaces*, *holed*, 
 è disponibile un'immagine in cui è illustrato l'oggetto da modellare.   
 Ogni studente è **libero di scegliere quali e quanti esercizi affrontare** (anche più volte in caso di esito non soddisfacente).
 
-Per ogni esercizio devono essere consegnati **2 file in formato _obj_ dello STESSO MODELLO**\*:
+Per ogni esercizio devono essere consegnati **2 file in formato _obj_\* dello STESSO MODELLO**\*\*:
 
 - una versione del modello **SENZA** l'applicazione dell'algoritmo di suddivisione
 - una versione dello stesso modello **su cui è applicato l'algoritmo di suddivisione**
@@ -19,7 +19,11 @@ Ad esempio, lo studente il cui numero di matricola è 741854 che esegue l'eserci
 contenuto nella cartella *joined*) dovrà produrre i file _**741854-12-LP.obj**_ (senza l'algoritmo 
 di suddivisione applicato) e _**741854-12.obj**_ (con l'algoritmo di suddivisione applicato).
 
-> \***ATTENZIONE:** L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
+> \* Per l'esportazione in formato obj da 3DS Max utilizzare i parametri indicati nell'immagine
+
+![export_obj](https://github.com/strumet/modeling/raw/master/archive/obj_export.png)
+
+> \*\***ATTENZIONE:** L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
 dell'algoritmo di suddivisione. La somiglianza con l'immagine di riferimento andrà pertanto ricercata unicamente 
 nel modello su cui è applcato l'OpenSubdiv
 
