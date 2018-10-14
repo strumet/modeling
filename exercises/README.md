@@ -19,9 +19,11 @@ Ad esempio, lo studente il cui numero di matricola è 741854 che esegue l'eserci
 contenuto nella cartella *joined*) dovrà produrre i file _**741854-12-LP.obj**_ (senza l'algoritmo 
 di suddivisione applicato) e _**741854-12.obj**_ (con l'algoritmo di suddivisione applicato).
 
-> \* Per l'esportazione in formato obj da 3DS Max utilizzare i parametri indicati nell'immagine
+> \* Per l'esportazione in formato obj da 3DS Max utilizzare i parametri indicati nell'immagine a sinistra   
+Per l'esportazione in formato obj da Blender utilizzare i parametri indicati nell'immagine a destra
 
-![export_obj](https://github.com/strumet/modeling/raw/master/archive/obj_export.png)
+![export_obj](https://github.com/strumet/modeling/raw/master/archive/obj_export.png) 
+![export_obj_blend](https://github.com/strumet/modeling/raw/master/archive/obj_export_blend.png)
 
 > \*\***ATTENZIONE:** L'unica differenza tra i due modelli da consegnare è l'applicazione, nel secondo caso, 
 dell'algoritmo di suddivisione. La somiglianza con l'immagine di riferimento andrà pertanto ricercata unicamente 
