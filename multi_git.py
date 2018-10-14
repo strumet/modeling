@@ -19,7 +19,7 @@ import subprocess, shlex
 get_range = lambda li: [val for val in range(li[0], li[1]+1)]
 get_format = lambda x: get_range(list(map(int, x.split('-')))) if '-' in x else map(int, x.split(',')) 
 commands = {
-        'diff': lambda x: 'git diff --summary HEAD...origin/pr/' + str(x),
+        'diff': lambda x: 'git diff --stat HEAD...origin/pr/' + str(x),
         'merge': lambda x: 'git merge origin/pr/' + str(x)
         }
 
