@@ -23,6 +23,7 @@ act_dict = {
         'activities/1/': re.compile('^\d{6}-0[1-3][ABC]\.obj$', re.IGNORECASE),
         'activities/2/': re.compile('^\d{6}-\d\d(-LP)?\.obj$', re.IGNORECASE),
         'exercises/': re.compile('^\d{6}-\d\d(-LP)?\.obj$', re.IGNORECASE),
+        'midterm_1/': re.compile('^\d{6}-\d\d(-LP)?\.obj$', re.IGNORECASE),
         }
 
 reports = {}
