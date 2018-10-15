@@ -20,7 +20,7 @@ git_add_cmd = lambda files: 'git add ' + ' '.join(files)
 git_commit_cmd = lambda files: 'git commit -m "revision" ' + ' '.join(files)
 git_push_cmd = lambda *args: 'git push'
 revision_cmd = lambda files: './revision.sh ' + ' '.join(files)
-feh_cmd = lambda files: 'feh ' + ' '.join(files)
+feh_cmd = lambda files: 'feh -d ' + ' '.join(files)
 
 class Cmd:
     def __init__(self, cmd, args = False, stdout = False, stderr = False, universal_newlines = False):
