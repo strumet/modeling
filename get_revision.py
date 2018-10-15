@@ -65,29 +65,3 @@ while commit != 'y' and commit != 'n':
 if commit == 'y':
     progress = list(map(lambda cmd: subprocess.run(shlex.split(cmd.cmd(cmd.args)),
         stdout=cmd.stdout, stderr=cmd.stderr, universal_newlines=cmd.universal_newlines), cmds))
-
-
-#cmd = subprocess.run(shlex.split(git_status_cmd()))
-#cmd = subprocess.run(shlex.split(git_checkout_cmd('backstage')))
-#cmd = subprocess.run(shlex.split(git_diff_from_master_cmd()), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
-        #universal_newlines=True)
-#CHANGED_FILES = cmd.stdout.strip().split('\n')
-#print('CHANGED FILES:', CHANGED_FILES)
-#OBJ_FILES = [f for f in CHANGED_FILES if obj_re.search(f)]
-#PNG_FILES = [obj_re.sub('png', f) for f in OBJ_FILES]
-#print('OBJ_FILES:', OBJ_FILES)
-#cmd = subprocess.run(shlex.split(git_merge_master_cmd()))
-#print('./revision.sh ' + ' '.join(OBJ_FILES))
-#cmd = subprocess.run(shlex.split(revision_cmd(OBJ_FILES)))
-#cmd = subprocess.run(shlex.split(git_add_cmd(PNG_FILES)))
-#cmd = subprocess.run(shlex.split(feh_cmd(PNG_FILES)))
-#
-#while commit != 'y' and commit != 'n':
-#    commit = input('Commit?\n(Y/N): ').lower()
-#if commit == 'y':
-#    cmd = subprocess.run(shlex.split(git_commit_cmd(PNG_FILES)))
-#    cmd = subprocess.run(shlex.split(git_checkout_cmd('master')))
-#    cmd = subprocess.run(shlex.split(git_checkout_cmd('backstage -- ' + ' '.join(PNG_FILES))))
-#    cmd = subprocess.run(shlex.split(git_commit_cmd(PNG_FILES)))
-#    cmd = subprocess.run(shlex.split(git_push()))
-#
