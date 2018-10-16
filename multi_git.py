@@ -31,6 +31,7 @@ reports = {}
 get_range = lambda li: [val for val in range(li[0], li[1]+1)]
 get_format = lambda x: get_range(list(map(int, x.split('-')))) if '-' in x else map(int, x.split(',')) 
 check_file = lambda x: 'git diff --stat --name-only HEAD...origin/pr/' + str(x)
+get_path_index = lambda x: x.rindex('/') + 1 if '/' in x else 1
 commands = {
         'diff': lambda x: 'git diff --stat HEAD...origin/pr/' + str(x),
         'merge': lambda x: 'git merge origin/pr/' + str(x)
@@ -56,9 +57,9 @@ for i in PR:
                 universal_newlines=True)
         files = check.stdout.strip().split('\n')
         for f in files:
-            path = f[:f.rindex('/') + 1]
-            filename = f[f.rindex('/') +1 :] 
-            if not act_dict[path].search(filename):
+            path = f[:get_path_index(f)]
+            filename = f[get_path_index(f):] 
+            if path not in act_dict or not act_dict[path].search(filename):
                 reports[str(i)].append(f)
         print()
 
