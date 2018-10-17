@@ -6,6 +6,7 @@
 import sys
 import subprocess, shlex
 import re
+import pathlib
 
 obj_re = re.compile('obj$', re.IGNORECASE)
 obj_filename_re = re.compile('([^\/]+(?!\/))\.obj$', re.IGNORECASE)
@@ -41,7 +42,7 @@ progress = list(map(lambda cmd: subprocess.run(shlex.split(cmd.cmd(cmd.args)),
     stdout=cmd.stdout, stderr=cmd.stderr, universal_newlines=cmd.universal_newlines), cmds))
 
 CHANGED_FILES = progress[-1].stdout.strip().split('\n')
-OBJ_FILES = [f for f in CHANGED_FILES if obj_re.search(f)]
+OBJ_FILES = [f for f in CHANGED_FILES if obj_re.search(f) and pathlib.Path(f).exists()]
 UNDERSCORE_TO_DASH_FILES = [obj_filename_re.sub(under_to_dash, f) for f in OBJ_FILES]
 PNG_FILES = [obj_re.sub('png', f) for f in UNDERSCORE_TO_DASH_FILES]
 
