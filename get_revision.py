@@ -41,13 +41,15 @@ cmds = [
 progress = list(map(lambda cmd: subprocess.run(shlex.split(cmd.cmd(cmd.args)),
     stdout=cmd.stdout, stderr=cmd.stderr, universal_newlines=cmd.universal_newlines), cmds))
 
+subprocess.run(shlex.split(git_merge_master_cmd()))
+
 CHANGED_FILES = progress[-1].stdout.strip().split('\n')
 OBJ_FILES = [f for f in CHANGED_FILES if obj_re.search(f) and pathlib.Path(f).exists()]
 UNDERSCORE_TO_DASH_FILES = [obj_filename_re.sub(under_to_dash, f) for f in OBJ_FILES]
 PNG_FILES = [obj_re.sub('png', f) for f in UNDERSCORE_TO_DASH_FILES]
 
 cmds = [
-        Cmd(git_merge_master_cmd),
+        #Cmd(git_merge_master_cmd),
         Cmd(revision_cmd, OBJ_FILES),
         Cmd(git_add_cmd, PNG_FILES),
         Cmd(feh_cmd, PNG_FILES),
