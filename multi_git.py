@@ -16,7 +16,6 @@
 import sys
 import subprocess, shlex
 import re
-import mf
 
 act_dict = {
         'activities/0/': re.compile('^\d{6}\.(jpg|png|jpeg)$', re.IGNORECASE),
