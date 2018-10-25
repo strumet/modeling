@@ -19,7 +19,7 @@ Ad esempio, se il proprio numero di matricola fosse 784645 i file da produrre sa
 - *784645-C.obj*
 - *784645-C-LP.obj*
 
-Caricare i file nella cartella *activities/2/* del **proprio repository**
+Caricare i file nella cartella *activities/3/* del **proprio repository**
 ed **inoltrarli al repository del corso tramite _pull request_**.
 
 > \* Per il fusto è sufficiente limitare la modellazione al solo tratto iniziale.
