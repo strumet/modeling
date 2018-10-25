@@ -1,7 +1,8 @@
 # Activity #3
 
-A partire dall'immagine raffigurata nel file *palladio.png* modellare i componenti - ara, base, fusto\*, capitello -
-della colonna qui rappresentata.
+A partire dall'immagine raffigurata nel file
+[*palladio.png*](https://github.com/strumet/modeling/blob/master/activities/3/palladio.png)
+modellare i componenti - ara, base, fusto\*, capitello - della colonna qui rappresentata.
 
 Salvare ogni modello **separatamente** in formato **.obj**\*\* e nominare il file secondo forma
 **_NUMEROMATRICOLA_-_INIZIALECOMPONENTE_.obj**.   
