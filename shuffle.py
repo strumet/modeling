@@ -1,7 +1,7 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 
-## Shuffles files
+## Shuffles names of files
 ## Examples: ./shuffle.py midterm_1/EXE-*.png
 
 import subprocess, shlex
