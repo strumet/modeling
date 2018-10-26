@@ -1,7 +1,11 @@
 #!/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 
-## TODO explain this
+## Get to backstage branch and merge in master branch.
+## Launch revision script for changed files and show renders for a visual check
+## If process is correct add the commit the new files (renders) and update master branch with them
+##
+## Launch after adding new files (e.g. after lanching get_revision script) without args
 
 import sys
 import subprocess, shlex
@@ -49,7 +53,6 @@ UNDERSCORE_TO_DASH_FILES = [obj_filename_re.sub(under_to_dash, f) for f in OBJ_F
 PNG_FILES = [obj_re.sub('png', f) for f in UNDERSCORE_TO_DASH_FILES]
 
 cmds = [
-        #Cmd(git_merge_master_cmd),
         Cmd(revision_cmd, OBJ_FILES),
         Cmd(git_add_cmd, PNG_FILES),
         Cmd(feh_cmd, PNG_FILES),
