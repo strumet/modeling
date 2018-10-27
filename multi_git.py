@@ -21,6 +21,7 @@ act_dict = {
         'activities/0/': re.compile('^\d{6}\.(jpg|png|jpeg)$', re.IGNORECASE),
         'activities/1/': re.compile('^\d{6}[-_]0[1-3][ABC]\.obj$', re.IGNORECASE),
         'activities/2/': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
+        'activities/3/': re.compile('^\d{6}[-_][ABCF](-LP)?\.obj$', re.IGNORECASE),
         'exercises/': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
         'midterm_1/': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
         }
