@@ -98,11 +98,10 @@ def main():
                     print('\t', f)
                 mails[d] = mail_body(id_no, reports[d], path)
     ## Print out the mail text to send
-        if len(reports[d]) > 0:
-            mail = input('\nPrepare mail?\n(y/n): ').lower()
-            if mail == 'y':
-                for m in mails:
-                    print('\n' + m + ':\n' + mails[m])
+        mail = input('\nPrepare mail?\n(y/n): ').lower()
+        if mail == 'y':
+            for m in mails:
+                print('\n' + m + ':\n' + mails[m])
 
 
 main()
