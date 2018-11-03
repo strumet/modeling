@@ -1,0 +1,865 @@
+COMMIT 2018-10-04 22:07:25 
+activities/1/893145-01A;No topological errors detected
+activities/1/893145-01B;No topological errors detected
+activities/1/893145-02A;No topological errors detected
+activities/1/893145-02B;No topological errors detected
+activities/1/893145-03A;No topological errors detected
+activities/1/893145-03B;!!! ERRORS DETECTED: 3 manifold vertices, 2 manifold edges, 10 intersections
+COMMIT 2018-10-05 11:39:35 
+activities/1/886423-01A;No topological errors detected
+activities/1/886423-01B;No topological errors detected
+activities/1/886423-02A;No topological errors detected
+activities/1/886423-02B;No topological errors detected
+activities/1/886423-03A;No topological errors detected
+activities/1/886423-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886423-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/886452-01A;No topological errors detected
+activities/1/886452-01B;No topological errors detected
+activities/1/886452-02A;No topological errors detected
+activities/1/886452-02B;No topological errors detected
+activities/1/886452-03A;No topological errors detected
+activities/1/886452-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886452-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/893152-01A;No topological errors detected
+activities/1/893152-01B;No topological errors detected
+activities/1/893152-02A;No topological errors detected
+activities/1/893152-02B;No topological errors detected
+activities/1/893152-03A;No topological errors detected
+activities/1/893152-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893152-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+COMMIT 2018-10-05 11:50:31 
+activities/1/890148-01A;No topological errors detected
+activities/1/890148-01B;No topological errors detected
+activities/1/890148-02A;No topological errors detected
+activities/1/890148-02B;No topological errors detected
+activities/1/890148-03A;No topological errors detected
+activities/1/890148-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/890148-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+COMMIT 2018-10-05 21:21:41 
+activities/1/893606-01A;No topological errors detected
+activities/1/893606-01B;No topological errors detected
+activities/1/893606-02A;No topological errors detected
+activities/1/893606-02B;No topological errors detected
+activities/1/893606-03A;No topological errors detected
+activities/1/893606-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893606-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+COMMIT 2018-10-07 04:54:16 
+activities/1/873257-01A;No topological errors detected
+activities/1/873257-01B;No topological errors detected
+activities/1/873257-02A;No topological errors detected
+activities/1/873257-02B;No topological errors detected
+activities/1/873257-03A;No topological errors detected
+activities/1/873257-03B;!!! ERRORS DETECTED: 10 manifold vertices, 12 manifold edges, 1 non quads faces
+activities/1/873257-03C;No topological errors detected
+COMMIT 2018-10-07 18:49:46 
+activities/1/886410-01A;!!! ERRORS DETECTED: No model detected
+activities/1/886410-01B;!!! ERRORS DETECTED: No model detected
+activities/1/886410-02A;No topological errors detected
+activities/1/886410-02B;No topological errors detected
+activities/1/886410-03A;No topological errors detected
+activities/1/886410-03B;!!! ERRORS DETECTED: 8 intersections
+COMMIT 2018-10-10 07:52:41 
+activities/1/893327-01A;No topological errors detected
+activities/1/893327-01B;No topological errors detected
+activities/1/893327-02A;No topological errors detected
+activities/1/893327-02B;No topological errors detected
+activities/1/893327-03A;No topological errors detected
+activities/1/893327-03B;No topological errors detected
+COMMIT 2018-10-10 16:56:35 
+activities/1/886467-01A;No topological errors detected
+activities/1/886467-01B;No topological errors detected
+activities/1/886467-02A;No topological errors detected
+activities/1/886467-02B;No topological errors detected
+activities/1/886467-03A;No topological errors detected
+activities/1/886467-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886467-03C;No topological errors detected
+COMMIT 2018-10-10 19:43:07 
+activities/1/895644-01A;No topological errors detected
+activities/1/895644-01B;No topological errors detected
+activities/1/895644-02A;No topological errors detected
+activities/1/895644-02B;No topological errors detected
+activities/1/895644-03A;No topological errors detected
+activities/1/895644-03B;No topological errors detected
+activities/1/895644-03C;No topological errors detected
+COMMIT 2018-10-10 21:05:22 
+activities/1/873257-01A;No topological errors detected
+activities/1/873257-01B;No topological errors detected
+activities/1/873257-02A;No topological errors detected
+activities/1/873257-02B;No topological errors detected
+activities/1/873257-03A;No topological errors detected
+activities/1/873257-03B;!!! ERRORS DETECTED: 10 manifold vertices, 12 manifold edges, 1 non quads faces
+activities/1/873257-03C;No topological errors detected
+activities/1/886410-01A;!!! ERRORS DETECTED: No model detected
+activities/1/886410-01B;!!! ERRORS DETECTED: No model detected
+activities/1/886410-02A;No topological errors detected
+activities/1/886410-02B;No topological errors detected
+activities/1/886410-03A;No topological errors detected
+activities/1/886410-03B;!!! ERRORS DETECTED: 8 intersections
+activities/1/886423-01A;No topological errors detected
+activities/1/886423-01B;No topological errors detected
+activities/1/886423-02A;No topological errors detected
+activities/1/886423-02B;No topological errors detected
+activities/1/886423-03A;No topological errors detected
+activities/1/886423-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886423-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/886452-01A;No topological errors detected
+activities/1/886452-01B;No topological errors detected
+activities/1/886452-02A;No topological errors detected
+activities/1/886452-02B;No topological errors detected
+activities/1/886452-03A;No topological errors detected
+activities/1/886452-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886452-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/886467-01A;No topological errors detected
+activities/1/886467-01B;No topological errors detected
+activities/1/886467-02A;No topological errors detected
+activities/1/886467-02B;No topological errors detected
+activities/1/886467-03A;No topological errors detected
+activities/1/886467-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886467-03C;No topological errors detected
+activities/1/890148-01A;No topological errors detected
+activities/1/890148-01B;No topological errors detected
+activities/1/890148-02A;No topological errors detected
+activities/1/890148-02B;No topological errors detected
+activities/1/890148-03A;No topological errors detected
+activities/1/890148-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/890148-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/893145-01A;No topological errors detected
+activities/1/893145-01B;No topological errors detected
+activities/1/893145-02A;No topological errors detected
+activities/1/893145-02B;No topological errors detected
+activities/1/893145-03A;No topological errors detected
+activities/1/893145-03B;!!! ERRORS DETECTED: 3 manifold vertices, 2 manifold edges, 10 intersections
+activities/1/893152-01A;No topological errors detected
+activities/1/893152-01B;No topological errors detected
+activities/1/893152-02A;No topological errors detected
+activities/1/893152-02B;No topological errors detected
+activities/1/893152-03A;No topological errors detected
+activities/1/893152-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893152-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/893327-01A;No topological errors detected
+activities/1/893327-01B;No topological errors detected
+activities/1/893327-02A;No topological errors detected
+activities/1/893327-02B;No topological errors detected
+activities/1/893327-03A;No topological errors detected
+activities/1/893327-03B;No topological errors detected
+activities/1/893606-01A;No topological errors detected
+activities/1/893606-01B;No topological errors detected
+activities/1/893606-02A;No topological errors detected
+activities/1/893606-02B;No topological errors detected
+activities/1/893606-03A;No topological errors detected
+activities/1/893606-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893606-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/895644-01A;No topological errors detected
+activities/1/895644-01B;No topological errors detected
+activities/1/895644-02A;No topological errors detected
+activities/1/895644-02B;No topological errors detected
+activities/1/895644-03A;No topological errors detected
+activities/1/895644-03B;No topological errors detected
+activities/1/895644-03C;No topological errors detected
+COMMIT 2018-10-10 22:59:22 
+activities/1/893008-01A;No topological errors detected
+activities/1/893008-01B;No topological errors detected
+activities/1/893008-02A;No topological errors detected
+activities/1/893008-02B;No topological errors detected
+activities/1/893008-03A;No topological errors detected
+activities/1/893008-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893008-03C;No topological errors detected
+activities/1/913553-01A;No topological errors detected
+activities/1/913553-01B;No topological errors detected
+activities/1/914157-01A;!!! ERRORS DETECTED: 19 intersections
+activities/1/914157-01B;!!! ERRORS DETECTED: 44 intersections
+activities/1/914157-02A;!!! ERRORS DETECTED: 13 intersections
+activities/1/914157-02B;!!! ERRORS DETECTED: 29 intersections
+activities/1/914157-03A;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 51 intersections
+activities/1/914157-03B;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 25 intersections
+activities/1/914157-03C;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 63 intersections
+COMMIT 2018-10-11 17:18:22 
+activities/1/892062-01A;No topological errors detected
+activities/1/892062-01B;No topological errors detected
+activities/1/892062-02A;No topological errors detected
+activities/1/892062-02B;No topological errors detected
+activities/1/892062-03A;No topological errors detected
+activities/1/892062-03B;!!! ERRORS DETECTED: 4 manifold vertices, 4 manifold edges, 4 intersections
+activities/1/892783-01A;No topological errors detected
+activities/1/892783-01B;No topological errors detected
+activities/1/892783-02A;No topological errors detected
+activities/1/892783-02B;No topological errors detected
+activities/1/892783-03A;No topological errors detected
+activities/1/892783-03B;No topological errors detected
+activities/1/892783-03C;No topological errors detected
+COMMIT 2018-10-12 15:50:57 
+activities/1/873257-01A;No topological errors detected
+activities/1/873257-01B;No topological errors detected
+activities/1/873257-02A;No topological errors detected
+activities/1/873257-02B;No topological errors detected
+activities/1/873257-03A;No topological errors detected
+activities/1/873257-03B;!!! ERRORS DETECTED: 10 manifold vertices, 12 manifold edges, 1 non quads faces
+activities/1/873257-03C;No topological errors detected
+activities/1/886410-01A;!!! ERRORS DETECTED: No model detected
+activities/1/886410-01B;!!! ERRORS DETECTED: No model detected
+activities/1/886410-02A;No topological errors detected
+activities/1/886410-02B;No topological errors detected
+activities/1/886410-03A;No topological errors detected
+activities/1/886410-03B;!!! ERRORS DETECTED: 8 intersections
+activities/1/886423-01A;No topological errors detected
+activities/1/886423-01B;No topological errors detected
+activities/1/886423-02A;No topological errors detected
+activities/1/886423-02B;No topological errors detected
+activities/1/886423-03A;No topological errors detected
+activities/1/886423-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886423-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/886452-01A;No topological errors detected
+activities/1/886452-01B;No topological errors detected
+activities/1/886452-02A;No topological errors detected
+activities/1/886452-02B;No topological errors detected
+activities/1/886452-03A;No topological errors detected
+activities/1/886452-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886452-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/886467-01A;No topological errors detected
+activities/1/886467-01B;No topological errors detected
+activities/1/886467-02A;No topological errors detected
+activities/1/886467-02B;No topological errors detected
+activities/1/886467-03A;No topological errors detected
+activities/1/886467-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886467-03C;No topological errors detected
+activities/1/890148-01A;No topological errors detected
+activities/1/890148-01B;No topological errors detected
+activities/1/890148-02A;No topological errors detected
+activities/1/890148-02B;No topological errors detected
+activities/1/890148-03A;No topological errors detected
+activities/1/890148-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/890148-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/892062-01A;No topological errors detected
+activities/1/892062-01B;No topological errors detected
+activities/1/892062-02A;No topological errors detected
+activities/1/892062-02B;No topological errors detected
+activities/1/892062-03A;No topological errors detected
+activities/1/892062-03B;!!! ERRORS DETECTED: 4 manifold vertices, 4 manifold edges, 4 intersections
+activities/1/892783-01A;No topological errors detected
+activities/1/892783-01B;No topological errors detected
+activities/1/892783-02A;No topological errors detected
+activities/1/892783-02B;No topological errors detected
+activities/1/892783-03A;No topological errors detected
+activities/1/892783-03B;No topological errors detected
+activities/1/892783-03C;No topological errors detected
+activities/1/893008-01A;No topological errors detected
+activities/1/893008-01B;No topological errors detected
+activities/1/893008-02A;No topological errors detected
+activities/1/893008-02B;No topological errors detected
+activities/1/893008-03A;No topological errors detected
+activities/1/893008-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893008-03C;No topological errors detected
+activities/1/893145-01A;No topological errors detected
+activities/1/893145-01B;No topological errors detected
+activities/1/893145-02A;No topological errors detected
+activities/1/893145-02B;No topological errors detected
+activities/1/893145-03A;No topological errors detected
+activities/1/893145-03B;!!! ERRORS DETECTED: 3 manifold vertices, 2 manifold edges, 10 intersections
+activities/1/893152-01A;No topological errors detected
+activities/1/893152-01B;No topological errors detected
+activities/1/893152-02A;No topological errors detected
+activities/1/893152-02B;No topological errors detected
+activities/1/893152-03A;No topological errors detected
+activities/1/893152-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893152-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/893327-01A;No topological errors detected
+activities/1/893327-01B;No topological errors detected
+activities/1/893327-02A;No topological errors detected
+activities/1/893327-02B;No topological errors detected
+activities/1/893327-03A;No topological errors detected
+activities/1/893327-03B;No topological errors detected
+activities/1/893606-01A;No topological errors detected
+activities/1/893606-01B;No topological errors detected
+activities/1/893606-02A;No topological errors detected
+activities/1/893606-02B;No topological errors detected
+activities/1/893606-03A;No topological errors detected
+activities/1/893606-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/893606-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/1/895644-01A;No topological errors detected
+activities/1/895644-01B;No topological errors detected
+activities/1/895644-02A;No topological errors detected
+activities/1/895644-02B;No topological errors detected
+activities/1/895644-03A;No topological errors detected
+activities/1/895644-03B;No topological errors detected
+activities/1/895644-03C;No topological errors detected
+activities/1/913553-01A;No topological errors detected
+activities/1/913553-01B;No topological errors detected
+activities/1/914157-01A;!!! ERRORS DETECTED: 19 intersections
+activities/1/914157-01B;!!! ERRORS DETECTED: 44 intersections
+activities/1/914157-02A;!!! ERRORS DETECTED: 13 intersections
+activities/1/914157-02B;!!! ERRORS DETECTED: 29 intersections
+activities/1/914157-03A;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 51 intersections
+activities/1/914157-03B;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 25 intersections
+activities/1/914157-03C;!!! ERRORS DETECTED: 16 zero-length edges, 8 non quads faces, 16 zero-size faces, 63 intersections
+COMMIT 2018-10-13 13:48:13 
+activities/1/893213-01A;No topological errors detected
+activities/1/893213-01B;!!! ERRORS DETECTED: 8 manifold vertices, 14 manifold edges, 4 non quads faces
+activities/1/893213-02A;No topological errors detected
+activities/1/893213-02B;No topological errors detected
+activities/1/893213-03A;No topological errors detected
+activities/1/893213-03B;!!! ERRORS DETECTED: 8 non quads faces
+activities/1/893213-03C;No topological errors detected
+COMMIT 2018-10-13 15:48:05 
+activities/2/893152-04-LP;!!! ERRORS DETECTED: 47 manifold vertices, 47 manifold edges, 1 non quads faces
+activities/2/893152-04;!!! ERRORS DETECTED: 376 manifold vertices, 376 manifold edges
+COMMIT 2018-10-13 18:02:09 
+exercises/914571-01-LP;No topological errors detected
+exercises/914571-01;!!! ERRORS DETECTED: 8 non quads faces
+COMMIT 2018-10-13 19:58:29 
+activities/1/891271-01A;No topological errors detected
+COMMIT 2018-10-13 20:45:25 
+exercises/914571-02-LP;!!! ERRORS DETECTED: 12 non quads faces
+exercises/914571-02;!!! ERRORS DETECTED: 12 non quads faces
+exercises/914571-03-LP;!!! ERRORS DETECTED: 16 non quads faces
+exercises/914571-03;!!! ERRORS DETECTED: 16 non quads faces
+exercises/914571-04-LP;!!! ERRORS DETECTED: 16 non quads faces
+exercises/914571-04;!!! ERRORS DETECTED: 16 non quads faces
+exercises/914571-05-LP;!!! ERRORS DETECTED: 26 manifold vertices, 29 manifold edges, 8 intersections
+exercises/914571-05;!!! ERRORS DETECTED: 26 manifold vertices, 29 manifold edges, 8 intersections
+exercises/914571-06-LP;!!! ERRORS DETECTED: 2 non quads faces
+exercises/914571-06;!!! ERRORS DETECTED: 2 non quads faces
+COMMIT 2018-10-14 15:40:17 
+activities/1/891271-03B;!!! ERRORS DETECTED: 8 non quads faces
+activities/1/893077-01A;No topological errors detected
+activities/1/893077-01B;No topological errors detected
+activities/1/893077-02B;No topological errors detected
+activities/1/893077-03A;No topological errors detected
+activities/1/893077-03B;!!! ERRORS DETECTED: 12 zero-length edges, 4 zero-size faces, 3 intersections
+activities/1/893077-03C;No topological errors detected
+activities/2/886423-10-LP;!!! ERRORS DETECTED: 12 manifold vertices, 12 manifold edges, 5 non quads faces
+COMMIT 2018-10-14 15:47:01 
+exercises/914571-02-LP;No topological errors detected
+exercises/914571-02;No topological errors detected
+exercises/914571-03-LP;No topological errors detected
+exercises/914571-03;No topological errors detected
+exercises/914571-05-LP;!!! ERRORS DETECTED: 66 manifold vertices, 66 manifold edges, 6 intersections
+exercises/914571-05;!!! ERRORS DETECTED: 66 manifold vertices, 66 manifold edges, 6 intersections
+exercises/914571-06-LP;No topological errors detected
+exercises/914571-06;No topological errors detected
+COMMIT 2018-10-14 16:04:23 
+exercises/914571-02;No topological errors detected
+exercises/914571-03;No topological errors detected
+exercises/914571-04;No topological errors detected
+exercises/914571-05;!!! ERRORS DETECTED: 66 manifold vertices, 66 manifold edges, 6 intersections
+exercises/914571-06;!!! ERRORS DETECTED: 6 intersections
+exercises/914571-07;!!! ERRORS DETECTED: 91 manifold vertices, 109 manifold edges, 6 zero-length edges, 5 zero-size faces, 5 intersections
+exercises/914571-08;!!! ERRORS DETECTED: 4 non quads faces
+exercises/914571-09;!!! ERRORS DETECTED: 7 non quads faces
+COMMIT 2018-10-14 18:29:05 
+activities/1/891271-03A;No topological errors detected
+COMMIT 2018-10-15 11:21:33 
+activities/2/893152-04-LP;!!! ERRORS DETECTED: 24 zero-length edges, 24 zero-size faces, 15 intersections
+activities/2/893152-04;No topological errors detected
+activities/2/893361-65-LP;!!! ERRORS DETECTED: 28 zero-length edges, 33 zero-size faces, 51 intersections
+activities/2/893361-65;!!! ERRORS DETECTED: 174 zero-length edges, 3 non quads faces, 142 zero-size faces, 70 intersections
+exercises/886410-01-LP;No topological errors detected
+exercises/886410-02-LP;!!! ERRORS DETECTED: 2 intersections
+exercises/886410-03-LP;!!! ERRORS DETECTED: 5 intersections
+exercises/886410-04-LP;!!! ERRORS DETECTED: 6 intersections
+exercises/886410-05-LP;!!! ERRORS DETECTED: 10 intersections
+exercises/886410-06-LP;No topological errors detected
+COMMIT 2018-10-15 11:53:24 
+activities/1/889060-01A;No topological errors detected
+exercises/889060-01-LP;No topological errors detected
+exercises/889060-01;!!! ERRORS DETECTED: 566 zero-length edges, 546 zero-size faces, 7 intersections
+exercises/889060-02-LP;No topological errors detected
+exercises/889060-02;!!! ERRORS DETECTED: 1600 zero-length edges, 1700 zero-size faces, 12 intersections
+exercises/889060-03-LP;No topological errors detected
+exercises/889060-03;!!! ERRORS DETECTED: 1136 zero-length edges, 1147 zero-size faces, 8 intersections
+COMMIT 2018-10-15 13:47:00 
+activities/1/892863-01A;No topological errors detected
+activities/1/892863-01B;No topological errors detected
+activities/1/892863-02A;No topological errors detected
+activities/1/892863-02B;No topological errors detected
+activities/1/892863-03A;No topological errors detected
+activities/1/892863-03B;!!! ERRORS DETECTED: 8 non quads faces
+activities/2/886467-75-LP;!!! ERRORS DETECTED: 26 non quads faces, 35 intersections
+activities/2/886467-75;!!! ERRORS DETECTED: 26 non quads faces, 35 intersections
+exercises/886467-02-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges
+exercises/886467-02;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 2 intersections
+exercises/886467-06-LP;No topological errors detected
+exercises/886467-06;No topological errors detected
+COMMIT 2018-10-15 15:53:56 
+activities/2/893327-52-LP;!!! ERRORS DETECTED: 172 zero-length edges, 2 non quads faces, 172 zero-size faces, 64 intersections
+activities/2/893327-52;No topological errors detected
+COMMIT 2018-10-15 16:38:41 
+exercises/893145-01;!!! ERRORS DETECTED: 404 zero-length edges, 404 zero-size faces
+exercises/893145-02-LP;No topological errors detected
+exercises/893145-02;!!! ERRORS DETECTED: 70 zero-length edges, 76 zero-size faces, 8 intersections
+exercises/893145-03-LP;No topological errors detected
+exercises/893145-03;!!! ERRORS DETECTED: 48 zero-length edges, 61 zero-size faces
+exercises/893145-04-LP;No topological errors detected
+exercises/893145-04;!!! ERRORS DETECTED: 92 zero-length edges, 109 zero-size faces
+exercises/893145-05-LP;No topological errors detected
+exercises/893145-05;!!! ERRORS DETECTED: 110 zero-length edges, 107 zero-size faces, 4 intersections
+exercises/893145-07-LP;!!! ERRORS DETECTED: 4 manifold vertices, 4 manifold edges
+exercises/893145-07;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 629 zero-length edges, 599 zero-size faces, 3 intersections
+COMMIT 2018-10-15 17:12:18 
+exercises/889060-04-LP;No topological errors detected
+exercises/889060-04;!!! ERRORS DETECTED: 1712 zero-length edges, 1547 zero-size faces, 12 intersections
+exercises/889060-05-LP;No topological errors detected
+exercises/889060-05;!!! ERRORS DETECTED: 571 zero-length edges, 560 zero-size faces, 23 intersections
+exercises/889060-07-LP;No topological errors detected
+exercises/889060-07;!!! ERRORS DETECTED: 8265 zero-length edges, 7117 zero-size faces, 16 intersections
+COMMIT 2018-10-15 19:04:58 
+activities/2/886454-29-LP;!!! ERRORS DETECTED: 4 non quads faces
+activities/2/886454-29;No topological errors detected
+COMMIT 2018-10-15 19:46:25 
+activities/1/892863-03C;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges
+COMMIT 2018-10-15 21:17:55 
+activities/2/886410-14-LP;!!! ERRORS DETECTED: 2 non quads faces
+activities/2/886410-14;No topological errors detected
+COMMIT 2018-10-16 09:01:27 
+activities/2/893361-51-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 34 intersections
+activities/2/893361-51;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 1 non quads faces, 22 intersections
+exercises/889060-02;No topological errors detected
+COMMIT 2018-10-16 09:50:56 
+activities/2/886452-49-LP;!!! ERRORS DETECTED: 8 non quads faces
+activities/2/886452-49;No topological errors detected
+COMMIT 2018-10-16 15:07:30 
+activities/2/893152-01-LP;No topological errors detected
+activities/2/893152-01;No topological errors detected
+exercises/893401-02-LP;No topological errors detected
+exercises/893401-02;No topological errors detected
+exercises/893401-03-LP;No topological errors detected
+exercises/893401-03;No topological errors detected
+exercises/893401-04-LP;No topological errors detected
+exercises/893401-04;No topological errors detected
+exercises/893401-05-LP;No topological errors detected
+exercises/893401-05;No topological errors detected
+COMMIT 2018-10-16 16:31:00 
+activities/2/891014-48-LP;!!! ERRORS DETECTED: 4 non quads faces, 39 intersections
+activities/2/891014-48;!!! ERRORS DETECTED: 90 intersections
+activities/2/893008-17-LP;!!! ERRORS DETECTED: 20 non quads faces
+activities/2/893008-17;No topological errors detected
+COMMIT 2018-10-16 17:43:12 
+activities/1/886958-01A;No topological errors detected
+activities/1/886958-01B;No topological errors detected
+activities/1/886958-02A;No topological errors detected
+activities/1/886958-02B;No topological errors detected
+activities/1/886958-03A;No topological errors detected
+activities/1/886958-03B;!!! ERRORS DETECTED: 9 manifold vertices, 8 manifold edges
+activities/1/886958-03C;!!! ERRORS DETECTED: 34 manifold vertices, 57 manifold edges, 57 intersections
+activities/2/886958-56-LP;!!! ERRORS DETECTED: 2 non quads faces
+activities/2/886958-56;No topological errors detected
+activities/2/892062-62-LP;!!! ERRORS DETECTED: 8 zero-length edges, 1 non quads faces, 8 zero-size faces, 9 intersections
+activities/2/892062-62;No topological errors detected
+COMMIT 2018-10-16 18:06:42 
+activities/2/873257-06-LP;!!! ERRORS DETECTED: 1 non quads faces
+activities/2/873257-06;!!! ERRORS DETECTED: 4 intersections
+COMMIT 2018-10-16 18:29:27 
+activities/2/891271-60-LP;!!! ERRORS DETECTED: 16 non quads faces
+activities/2/891271-60;!!! ERRORS DETECTED: 24 non quads faces, 26 intersections
+COMMIT 2018-10-16 18:44:10 
+activities/2/886423-10-LP;!!! ERRORS DETECTED: 48 zero-length edges, 4 non quads faces, 48 zero-size faces, 4 intersections
+activities/2/886423-10;!!! ERRORS DETECTED: 377 zero-length edges, 372 zero-size faces, 41 intersections
+activities/2/893003-10-LP;!!! ERRORS DETECTED: 1 non quads faces
+activities/2/893003-10;No topological errors detected
+COMMIT 2018-10-16 19:29:55 
+activities/1/886396-01A;No topological errors detected
+activities/1/893569-01A;No topological errors detected
+activities/1/895835-01A;No topological errors detected
+activities/2/891271-60;No topological errors detected
+activities/2/892863-04-LP;No topological errors detected
+activities/2/892863-04;No topological errors detected
+activities/2/893077-64-LP;!!! ERRORS DETECTED: 8 zero-length edges, 12 non quads faces, 8 zero-size faces, 12 intersections
+activities/2/893077-64;!!! ERRORS DETECTED: 78 intersections
+COMMIT 2018-10-16 21:28:40 
+activities/1/886396-01B;!!! ERRORS DETECTED: 24 manifold vertices, 28 manifold edges
+activities/1/892911-01A;No topological errors detected
+activities/1/892911-01B;No topological errors detected
+activities/1/892911-02A;No topological errors detected
+activities/1/892911-02B;No topological errors detected
+activities/1/892911-03B;!!! ERRORS DETECTED: 10 manifold vertices, 12 manifold edges, 2 zero-length edges, 1 non quads faces, 3 intersections
+activities/1/893569-01B;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 2 intersections
+activities/1/895835-01B;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 7 intersections
+COMMIT 2018-10-16 22:09:03 
+activities/1/869260-01A;!!! ERRORS DETECTED: No model detected
+activities/1/869260-01B;!!! ERRORS DETECTED: No model detected
+activities/1/869260-02A;!!! ERRORS DETECTED: No model detected
+activities/1/869260-02B;!!! ERRORS DETECTED: No model detected
+activities/1/869260-03A;!!! ERRORS DETECTED: No model detected
+activities/1/869260-03B;!!! ERRORS DETECTED: No model detected
+activities/1/869260-03C;!!! ERRORS DETECTED: No model detected
+COMMIT 2018-10-17 08:10:01 
+activities/2/892863-00-LP;No topological errors detected
+activities/2/892863-00;No topological errors detected
+exercises/886467-10-LP;!!! ERRORS DETECTED: 24 non quads faces, 2 zero-size faces, 4 intersections
+exercises/886467-10;No topological errors detected
+COMMIT 2018-10-17 09:51:31 
+activities/2/886410-14-LP;!!! ERRORS DETECTED: 8 non quads faces, 12 intersections
+activities/2/886410-14;!!! ERRORS DETECTED: 8 intersections
+COMMIT 2018-10-17 10:59:56 
+activities/2/896435-28;!!! ERRORS DETECTED: 56 manifold vertices, 56 manifold edges, 106 non quads faces, 37 intersections
+COMMIT 2018-10-17 11:11:47 
+activities/2/890486-80-LP;!!! ERRORS DETECTED: 280 zero-length edges, 256 zero-size faces, 152 intersections
+activities/2/890486-80;!!! ERRORS DETECTED: 3164 zero-length edges, 3102 zero-size faces, 1089 intersections
+activities/2/893401-13-LP;!!! ERRORS DETECTED: 10 manifold vertices, 9 manifold edges, 32 zero-length edges, 30 zero-size faces, 23 intersections
+activities/2/893401-13;!!! ERRORS DETECTED: 37 manifold vertices, 36 manifold edges, 33 zero-length edges, 30 zero-size faces, 12 intersections
+COMMIT 2018-10-17 11:55:00 
+activities/1/869260-01A;No topological errors detected
+activities/1/869260-01B;No topological errors detected
+activities/1/869260-02A;No topological errors detected
+activities/1/869260-02B;No topological errors detected
+activities/1/869260-03A;No topological errors detected
+activities/1/869260-03B;!!! ERRORS DETECTED: 8 intersections
+activities/1/869260-03C;!!! ERRORS DETECTED: 16 zero-length edges, 16 zero-size faces, 4 intersections
+activities/2/892935-58-LP;!!! ERRORS DETECTED: 94 zero-length edges, 3 non quads faces, 94 zero-size faces
+activities/2/892935-58;No topological errors detected
+activities/2/895644-44-LP;!!! ERRORS DETECTED: 6 non quads faces, 3 intersections
+activities/2/895644-44;No topological errors detected
+COMMIT 2018-10-17 12:23:17 
+activities/2/886467-75-LP;!!! ERRORS DETECTED: 4 non quads faces
+activities/2/886467-75;No topological errors detected
+COMMIT 2018-10-17 13:47:46 
+activities/2/886410-14-LP;!!! ERRORS DETECTED: 9 non quads faces, 3 intersections
+activities/2/893145-51-LP;!!! ERRORS DETECTED: 30 manifold vertices, 33 manifold edges, 8 zero-length edges, 1 non quads faces, 8 zero-size faces, 15 intersections
+activities/2/893145-51;!!! ERRORS DETECTED: 120 manifold vertices, 120 manifold edges, 75 intersections
+COMMIT 2018-10-17 16:21:25 
+activities/1/869260-03B;!!! ERRORS DETECTED: 8 manifold vertices, 14 manifold edges, 18 non quads faces, 7 intersections
+activities/1/889399-01A;!!! ERRORS DETECTED: 116 zero-length edges, 124 zero-size faces, 3 intersections
+activities/1/889399-01B;!!! ERRORS DETECTED: 20 zero-length edges, 28 zero-size faces
+activities/1/889399-02A;!!! ERRORS DETECTED: 92 zero-length edges, 184 zero-size faces, 30 intersections
+activities/1/889399-02B;No topological errors detected
+activities/1/889399-03A;!!! ERRORS DETECTED: 533 zero-length edges, 524 zero-size faces, 293 intersections
+activities/1/889399-03B;!!! ERRORS DETECTED: 125 zero-length edges, 122 zero-size faces, 92 intersections
+activities/1/889399-03C;!!! ERRORS DETECTED: 124 zero-length edges, 120 zero-size faces, 34 intersections
+activities/2/889060-30-LP;!!! ERRORS DETECTED: 24 zero-length edges, 2 non quads faces, 24 zero-size faces, 18 intersections
+activities/2/889060-30;No topological errors detected
+activities/2/889399-20-LP;!!! ERRORS DETECTED: 2 non quads faces
+activities/2/889399-20;!!! ERRORS DETECTED: 2 zero-size faces, 10 intersections
+exercises/889399-01-LP;No topological errors detected
+exercises/889399-01;!!! ERRORS DETECTED: 3544 zero-length edges, 10595 zero-size faces, 4 intersections
+exercises/889399-02-LP;!!! ERRORS DETECTED: 2 manifold vertices, 1 manifold edges, 1 zero-length edges
+exercises/889399-02;No topological errors detected
+exercises/889399-03-LP;No topological errors detected
+exercises/889399-03;No topological errors detected
+exercises/889399-04-LP;No topological errors detected
+exercises/889399-04;No topological errors detected
+exercises/889399-05-LP;No topological errors detected
+exercises/889399-05;No topological errors detected
+exercises/893145-11-LP;!!! ERRORS DETECTED: 1 non quads faces
+exercises/893145-11;No topological errors detected
+COMMIT 2018-10-17 16:36:23 
+activities/1/869260-03C;No topological errors detected
+exercises/889060-08-LP;!!! ERRORS DETECTED: 32 zero-length edges, 32 zero-size faces, 13 intersections
+exercises/889060-08;No topological errors detected
+COMMIT 2018-10-17 16:39:23 
+activities/2/886410-14-LP;!!! ERRORS DETECTED: 16 non quads faces, 7 intersections
+activities/2/886410-14;No topological errors detected
+exercises/893327-01-LP;No topological errors detected
+exercises/893327-01;No topological errors detected
+exercises/893327-02-LP;!!! ERRORS DETECTED: 34 manifold vertices, 34 manifold edges, 23 intersections
+exercises/893327-02;!!! ERRORS DETECTED: 68 manifold vertices, 68 manifold edges, 56 intersections
+exercises/893327-03-LP;No topological errors detected
+exercises/893327-03;No topological errors detected
+exercises/893327-04-LP;No topological errors detected
+exercises/893327-04;No topological errors detected
+exercises/893327-05-LP;!!! ERRORS DETECTED: 2 intersections
+exercises/893327-05;!!! ERRORS DETECTED: 30 intersections
+exercises/893327-07-LP;!!! ERRORS DETECTED: 32 manifold vertices, 32 manifold edges
+exercises/893327-07;!!! ERRORS DETECTED: 64 manifold vertices, 64 manifold edges, 17 intersections
+exercises/893327-08-LP;No topological errors detected
+exercises/893327-08;No topological errors detected
+COMMIT 2018-10-17 17:18:11 
+activities/2/886382-57-LP;!!! ERRORS DETECTED: 192 zero-length edges, 2 non quads faces, 192 zero-size faces, 23 intersections
+activities/2/886382-57;!!! ERRORS DETECTED: 8106 zero-length edges, 8020 zero-size faces, 109 intersections
+COMMIT 2018-10-17 18:38:11 
+activities/2/914767-34-LP;!!! ERRORS DETECTED: 24717 zero-length edges, 4 non quads faces, 17215 zero-size faces, 2459 intersections
+activities/2/914767-34;!!! ERRORS DETECTED: 24658 zero-length edges, 17143 zero-size faces, 2388 intersections
+COMMIT 2018-10-17 18:40:06 
+exercises/889060-08-LP;No topological errors detected
+exercises/889060-08;No topological errors detected
+COMMIT 2018-10-17 18:53:56 
+activities/2/914571-15-LP;!!! ERRORS DETECTED: 24 manifold vertices, 32 manifold edges, 22 zero-length edges, 9 non quads faces, 20 zero-size faces, 18 intersections
+activities/2/914571-15;!!! ERRORS DETECTED: 48 manifold vertices, 48 manifold edges, 30 zero-length edges, 28 zero-size faces
+exercises/914571-07-LP;!!! ERRORS DETECTED: 91 manifold vertices, 109 manifold edges, 6 zero-length edges, 5 zero-size faces, 5 intersections
+exercises/914571-08-LP;!!! ERRORS DETECTED: 4 non quads faces
+exercises/914571-09-LP;!!! ERRORS DETECTED: 7 non quads faces
+COMMIT 2018-10-17 21:21:59 
+activities/2/886452-10-LP;!!! ERRORS DETECTED: 2 non quads faces
+activities/2/886452-10;No topological errors detected
+activities/2/886452-49-LP;!!! ERRORS DETECTED: 2 non quads faces
+activities/2/886452-49;No topological errors detected
+activities/2/893152-69-LP;No topological errors detected
+activities/2/893152-69;No topological errors detected
+activities/2/914571-15-LP;!!! ERRORS DETECTED: 32 manifold vertices, 32 manifold edges, 32 zero-length edges, 1 non quads faces, 32 zero-size faces, 14 intersections
+activities/2/914571-15;!!! ERRORS DETECTED: 64 manifold vertices, 64 manifold edges
+COMMIT 2018-10-18 07:31:57 
+activities/1/869260-03B;!!! ERRORS DETECTED: 8 manifold vertices, 13 manifold edges, 14 non quads faces
+activities/2/886410-14-LP;No topological errors detected
+activities/2/886410-14;No topological errors detected
+activities/2/886423-80-LP;!!! ERRORS DETECTED: 20 zero-length edges, 20 zero-size faces, 9 intersections
+activities/2/886423-80;!!! ERRORS DETECTED: 150 zero-length edges, 143 zero-size faces, 73 intersections
+activities/2/886452-10-LP;No topological errors detected
+activities/2/886452-10;No topological errors detected
+activities/2/889060-30-LP;!!! ERRORS DETECTED: 20 zero-length edges, 1 non quads faces, 20 zero-size faces, 9 intersections
+activities/2/889060-30;!!! ERRORS DETECTED: 22 zero-length edges, 20 zero-size faces, 9 intersections
+activities/2/892863-13-LP;!!! ERRORS DETECTED: 9 intersections
+activities/2/892863-13;!!! ERRORS DETECTED: 16 intersections
+activities/2/892863-24-LP;No topological errors detected
+activities/2/892863-24;No topological errors detected
+activities/2/893145-51-LP;No topological errors detected
+activities/2/914571-15-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 3 non quads faces
+activities/2/914571-15;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+exercises/889060-14-LP;No topological errors detected
+exercises/889060-14;No topological errors detected
+exercises/893145-14-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 2 non quads faces
+exercises/893145-14;!!! ERRORS DETECTED: 20 manifold vertices, 16 manifold edges, 32 intersections
+exercises/893145-16-LP;No topological errors detected
+exercises/893145-16;No topological errors detected
+COMMIT 2018-10-19 08:53:21 
+activities/1/886396-03A;No topological errors detected
+activities/1/886396-03C;!!! ERRORS DETECTED: 8 manifold vertices, 9 manifold edges, 12 non quads faces, 23 intersections
+activities/1/888884-01A;No topological errors detected
+activities/1/888884-01B;No topological errors detected
+activities/1/897786-01A;No topological errors detected
+activities/1/897786-01B;No topological errors detected
+activities/1/897786-02A;No topological errors detected
+activities/1/897786-02B;No topological errors detected
+activities/1/897786-03A;No topological errors detected
+activities/1/897786-03B;No topological errors detected
+activities/1/897786-03C;No topological errors detected
+activities/2/890486-08-LP;!!! ERRORS DETECTED: 372 zero-length edges, 360 zero-size faces, 97 intersections
+activities/2/890486-08;!!! ERRORS DETECTED: 372 zero-length edges, 360 zero-size faces, 97 intersections
+activities/2/890880-66-LP;!!! ERRORS DETECTED: 44 zero-length edges, 1 non quads faces, 44 zero-size faces, 13 intersections
+activities/2/890880-66;!!! ERRORS DETECTED: 621 zero-length edges, 592 zero-size faces, 14 intersections
+activities/2/893132-35-LP;!!! ERRORS DETECTED: 5862 zero-length edges, 5669 zero-size faces, 350 intersections
+activities/2/893132-35;!!! ERRORS DETECTED: 369 zero-length edges, 350 zero-size faces, 133 intersections
+activities/2/897786-70;!!! ERRORS DETECTED: 100 non quads faces, 6 zero-size faces, 6 intersections
+activities/2/914767-02-LP;No topological errors detected
+activities/2/914767-02;!!! ERRORS DETECTED: 32 zero-length edges, 118 zero-size faces
+activities/2/914767-34-LP;No topological errors detected
+activities/2/914767-34;No topological errors detected
+exercises/886454-06-LP;No topological errors detected
+exercises/886454-06;No topological errors detected
+COMMIT 2018-10-19 08:54:01 
+midterm_1/869260-78-LP;No topological errors detected
+midterm_1/869260-78;No topological errors detected
+midterm_1/872378-76-LP;!!! ERRORS DETECTED: 122 intersections
+midterm_1/872378-76;!!! ERRORS DETECTED: 196 intersections
+midterm_1/873257-38-LP;!!! ERRORS DETECTED: 1 non quads faces
+midterm_1/873257-38;No topological errors detected
+midterm_1/886382-43-LP;No topological errors detected
+midterm_1/886382-43;No topological errors detected
+midterm_1/886396-18-LP;!!! ERRORS DETECTED: 3 manifold vertices, 3 manifold edges, 7 non quads faces, 2 intersections
+midterm_1/886396-18;No topological errors detected
+midterm_1/886410-56-LP;No topological errors detected
+midterm_1/886410-56;No topological errors detected
+midterm_1/886423-65-LP;No topological errors detected
+midterm_1/886423-65;No topological errors detected
+midterm_1/886429-01-LP;!!! ERRORS DETECTED: 20 manifold vertices, 28 manifold edges, 104 zero-length edges, 6 non quads faces, 90 zero-size faces, 71 intersections
+midterm_1/886429-01;!!! ERRORS DETECTED: 188 manifold vertices, 192 manifold edges, 20 zero-length edges, 11 zero-size faces, 35 intersections
+midterm_1/886436-34-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 454 zero-length edges, 426 zero-size faces, 200 intersections
+midterm_1/886436-34;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 413 zero-length edges, 8 non quads faces, 364 zero-size faces, 74 intersections
+midterm_1/886452-16-LP;No topological errors detected
+midterm_1/886452-16;No topological errors detected
+midterm_1/886454-20-LP;!!! ERRORS DETECTED: 2 non quads faces, 2 intersections
+midterm_1/886454-20;No topological errors detected
+midterm_1/886462-48-LP;No topological errors detected
+midterm_1/886462-48;No topological errors detected
+midterm_1/886467-57-LP;No topological errors detected
+midterm_1/886467-57;!!! ERRORS DETECTED: 14 intersections
+midterm_1/886958-26-LP;No topological errors detected
+midterm_1/886958-26;No topological errors detected
+midterm_1/887436-69-LP;No topological errors detected
+midterm_1/887436-69;No topological errors detected
+midterm_1/887947-45-LP;!!! ERRORS DETECTED: 2 non quads faces
+midterm_1/887947-45;No topological errors detected
+midterm_1/888150-60-LP;!!! ERRORS DETECTED: 2 non quads faces
+midterm_1/888150-60;No topological errors detected
+midterm_1/888267-52-LP;!!! ERRORS DETECTED: 712 zero-length edges, 704 zero-size faces, 28 intersections
+midterm_1/888267-52;No topological errors detected
+midterm_1/888330-49-LP;No topological errors detected
+midterm_1/888330-49;No topological errors detected
+midterm_1/888682-11-LP;No topological errors detected
+midterm_1/888682-11;No topological errors detected
+midterm_1/888831-63-LP;!!! ERRORS DETECTED: 8 non quads faces
+midterm_1/888831-63;No topological errors detected
+midterm_1/888884-30-LP;No topological errors detected
+midterm_1/888884-30;No topological errors detected
+midterm_1/889060-66-LP;No topological errors detected
+midterm_1/889060-66;No topological errors detected
+midterm_1/889399-15-LP;No topological errors detected
+midterm_1/889399-15;No topological errors detected
+midterm_1/889476-13-LP;!!! ERRORS DETECTED: 1 non quads faces
+midterm_1/889476-13;No topological errors detected
+midterm_1/889597-59-LP;!!! ERRORS DETECTED: 2 zero-length edges, 47 non quads faces, 48 intersections
+midterm_1/889597-59;!!! ERRORS DETECTED: 55 intersections
+midterm_1/889606-29-LP;!!! ERRORS DETECTED: 164 zero-length edges, 4 non quads faces, 148 zero-size faces, 51 intersections
+midterm_1/889606-29;!!! ERRORS DETECTED: 152 zero-length edges, 129 zero-size faces, 76 intersections
+midterm_1/889934-08-LP;No topological errors detected
+midterm_1/889934-08;!!! ERRORS DETECTED: 58 non quads faces, 48 intersections
+midterm_1/889992-42-LP;!!! ERRORS DETECTED: 16 manifold vertices, 24 manifold edges, 136 zero-length edges, 130 zero-size faces, 64 intersections
+midterm_1/889992-42;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 338 zero-length edges, 302 zero-size faces, 185 intersections
+midterm_1/890148-19-LP;!!! ERRORS DETECTED: 19 zero-length edges, 19 zero-size faces, 32 intersections
+midterm_1/890148-19;!!! ERRORS DETECTED: 114 intersections
+midterm_1/890486-54-LP;!!! ERRORS DETECTED: 20 zero-length edges, 1 non quads faces, 20 zero-size faces, 7 intersections
+midterm_1/890486-54;No topological errors detected
+midterm_1/890682-71-LP;!!! ERRORS DETECTED: 642 manifold vertices, 767 manifold edges, 524535 zero-length edges, 35 non quads faces, 275718 zero-size faces, 389 intersections
+midterm_1/890806-67-LP;No topological errors detected
+midterm_1/890806-67;No topological errors detected
+midterm_1/890880-33-LP;!!! ERRORS DETECTED: 34 manifold vertices, 36 manifold edges, 18 zero-length edges, 1 non quads faces, 16 zero-size faces, 7 intersections
+midterm_1/890880-33;!!! ERRORS DETECTED: 286 manifold vertices, 288 manifold edges, 16 zero-length edges, 14 intersections
+midterm_1/891003-23-LP;!!! ERRORS DETECTED: 8 non quads faces
+midterm_1/891003-23;No topological errors detected
+midterm_1/891014-72-LP;!!! ERRORS DETECTED: 2 intersections
+midterm_1/891014-72;!!! ERRORS DETECTED: 6 intersections
+midterm_1/891236-68-LP;!!! ERRORS DETECTED: 5659 zero-length edges, 5570 zero-size faces, 301 intersections
+midterm_1/891236-68;No topological errors detected
+midterm_1/891271-21-LP;No topological errors detected
+midterm_1/891271-21;No topological errors detected
+midterm_1/891278-39-LP;No topological errors detected
+midterm_1/891278-39;No topological errors detected
+midterm_1/891611-35-LP;!!! ERRORS DETECTED: 6 non quads faces, 2 intersections
+midterm_1/891611-35;!!! ERRORS DETECTED: 122 manifold vertices, 189 manifold edges, 5 zero-size faces, 49 intersections
+midterm_1/891880-22-LP;No topological errors detected
+midterm_1/891880-22;No topological errors detected
+midterm_1/892062-05-LP;No topological errors detected
+midterm_1/892062-05;No topological errors detected
+midterm_1/892759-36-LP;!!! ERRORS DETECTED: 14394 zero-length edges, 13327 zero-size faces, 469 intersections
+midterm_1/892759-36;!!! ERRORS DETECTED: 584 zero-length edges, 648 zero-size faces, 106 intersections
+midterm_1/892783-58-LP;No topological errors detected
+midterm_1/892783-58;No topological errors detected
+midterm_1/892845-64-LP;!!! ERRORS DETECTED: 40714 zero-length edges, 34471 zero-size faces, 799 intersections
+midterm_1/892845-64;!!! ERRORS DETECTED: 270 zero-length edges, 260 zero-size faces, 287 intersections
+midterm_1/892863-24-LP;No topological errors detected
+midterm_1/892863-24;No topological errors detected
+midterm_1/892911-10-LP;!!! ERRORS DETECTED: 15 intersections
+midterm_1/892911-10;!!! ERRORS DETECTED: 16 intersections
+midterm_1/892915-25-LP;No topological errors detected
+midterm_1/892915-25;No topological errors detected
+midterm_1/892935-37-LP;No topological errors detected
+midterm_1/892935-37;No topological errors detected
+midterm_1/893001-53-LP;!!! ERRORS DETECTED: 96 non quads faces, 62 intersections
+midterm_1/893001-53;!!! ERRORS DETECTED: 96 non quads faces, 62 intersections
+midterm_1/893003-07-LP;No topological errors detected
+midterm_1/893003-07;No topological errors detected
+midterm_1/893008-00-LP;No topological errors detected
+midterm_1/893008-00;No topological errors detected
+midterm_1/893077-01-LP;!!! ERRORS DETECTED: 4 non quads faces
+midterm_1/893077-01;No topological errors detected
+midterm_1/893116-62-LP;!!! ERRORS DETECTED: 2003 zero-length edges, 1958 zero-size faces, 82 intersections
+midterm_1/893116-62;No topological errors detected
+midterm_1/893132-28-LP;No topological errors detected
+midterm_1/893132-28;No topological errors detected
+midterm_1/893144-44-LP;No topological errors detected
+midterm_1/893144-44;No topological errors detected
+midterm_1/893145-47-LP;!!! ERRORS DETECTED: 16 intersections
+midterm_1/893145-47;!!! ERRORS DETECTED: 128 intersections
+midterm_1/893152-00-LP;No topological errors detected
+midterm_1/893152-00;No topological errors detected
+midterm_1/893185-77-LP;!!! ERRORS DETECTED: 41 manifold vertices, 40 manifold edges, 696 zero-length edges, 672 zero-size faces, 142 intersections
+midterm_1/893185-77;!!! ERRORS DETECTED: 41 manifold vertices, 40 manifold edges, 122 zero-length edges, 108 zero-size faces, 47 intersections
+midterm_1/893194-50-LP;No topological errors detected
+midterm_1/893194-50;No topological errors detected
+midterm_1/893213-17-LP;No topological errors detected
+midterm_1/893213-17;No topological errors detected
+midterm_1/893259-03-LP;No topological errors detected
+midterm_1/893259-03;No topological errors detected
+midterm_1/893296-51-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 16 zero-length edges, 16 zero-size faces, 12 intersections
+midterm_1/893296-51;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 11 zero-length edges, 7 zero-size faces, 4 intersections
+midterm_1/893327-75-LP;!!! ERRORS DETECTED: 24 zero-length edges, 14 non quads faces, 22 zero-size faces, 16 intersections
+midterm_1/893327-75;!!! ERRORS DETECTED: 38 intersections
+midterm_1/893361-09-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 8 zero-length edges, 8 zero-size faces, 3 intersections
+midterm_1/893361-09;!!! ERRORS DETECTED: 32 manifold vertices, 32 manifold edges, 63 zero-length edges, 62 zero-size faces, 13 intersections
+midterm_1/893365-02-LP;No topological errors detected
+midterm_1/893365-02;No topological errors detected
+midterm_1/893401-55-LP;No topological errors detected
+midterm_1/893401-55;No topological errors detected
+midterm_1/893566-31-LP;!!! ERRORS DETECTED: 8 non quads faces
+midterm_1/893566-31;No topological errors detected
+midterm_1/893569-79-LP;!!! ERRORS DETECTED: 13 manifold vertices, 18 manifold edges, 4 non quads faces
+midterm_1/893569-79;!!! ERRORS DETECTED: 6 intersections
+midterm_1/893606-32-LP;No topological errors detected
+midterm_1/893606-32;No topological errors detected
+midterm_1/895644-06-LP;No topological errors detected
+midterm_1/895644-06;No topological errors detected
+midterm_1/895835-04-LP;!!! ERRORS DETECTED: 1 zero-length edges, 10 non quads faces, 2 zero-size faces, 4 intersections
+midterm_1/895835-04;!!! ERRORS DETECTED: 2 intersections
+midterm_1/896435-28;!!! ERRORS DETECTED: 794 manifold vertices, 951 manifold edges, 1006 non quads faces, 353 intersections
+midterm_1/897786-03-LP;!!! ERRORS DETECTED: 2 non quads faces, 142 intersections
+midterm_1/897786-03;!!! ERRORS DETECTED: 70 non quads faces, 16 intersections
+midterm_1/913553-14-LP;!!! ERRORS DETECTED: 10 manifold vertices, 10 manifold edges, 16 non quads faces
+midterm_1/913553-14;!!! ERRORS DETECTED: 40 manifold vertices, 40 manifold edges, 13 intersections
+midterm_1/914157-70-LP;!!! ERRORS DETECTED: 12 zero-length edges, 20 non quads faces, 12 zero-size faces, 2 intersections
+midterm_1/914157-70;No topological errors detected
+midterm_1/914571-61-LP;!!! ERRORS DETECTED: 2 non quads faces
+midterm_1/914571-61;No topological errors detected
+midterm_1/914744-41-LP;No topological errors detected
+midterm_1/914744-41;No topological errors detected
+midterm_1/914767-74-LP;!!! ERRORS DETECTED: 2 non quads faces, 2 intersections
+midterm_1/914767-74;No topological errors detected
+COMMIT 2018-10-19 08:57:38 
+activities/2/897786-70-LP;No topological errors detected
+COMMIT 2018-10-27 21:44:32 
+activities/3/889399-A-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges
+activities/3/889399-A;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+activities/3/889399-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/889399-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges
+activities/3/889399-C-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges
+activities/3/889399-C;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+COMMIT 2018-10-27 23:08:01 
+activities/3/889399-A-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges
+activities/3/889399-A;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+activities/3/889399-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/889399-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges
+activities/3/889399-C-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges
+activities/3/889399-C;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+COMMIT 2018-10-28 18:30:33 
+activities/3/886382-A-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges, 4 intersections
+activities/3/886382-A;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+activities/3/886382-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/886382-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges
+activities/3/886382-C-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges, 12 zero-length edges, 12 zero-size faces
+activities/3/886382-C;!!! ERRORS DETECTED: 384 manifold vertices, 384 manifold edges
+COMMIT 2018-10-28 21:10:04 
+exercises/913553-02-LP;No topological errors detected
+exercises/913553-02;No topological errors detected
+COMMIT 2018-10-29 18:59:59 
+activities/3/893145-A-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 8 zero-length edges, 8 zero-size faces, 13 intersections
+activities/3/893145-A;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 64 zero-length edges, 64 zero-size faces, 115 intersections
+COMMIT 2018-10-29 19:57:30 
+activities/3/872378-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 16 intersections
+activities/3/872378-B;!!! ERRORS DETECTED: 32 manifold vertices, 32 manifold edges, 32 intersections
+activities/3/872378-F-LP;!!! ERRORS DETECTED: 768 manifold vertices, 768 manifold edges, 54 intersections
+activities/3/872378-F;!!! ERRORS DETECTED: 1536 manifold vertices, 1536 manifold edges, 102 intersections
+activities/3/893145-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 19 intersections
+activities/3/893145-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 203 intersections
+COMMIT 2018-10-29 21:45:27 
+activities/3/893152-B-LP;No topological errors detected
+activities/3/893152-B;!!! ERRORS DETECTED: 15 intersections
+activities/3/893152-C-LP;No topological errors detected
+activities/3/893152-C;!!! ERRORS DETECTED: 58 intersections
+activities/3/893152-F-LP;No topological errors detected
+activities/3/893152-F;No topological errors detected
+COMMIT 2018-10-30 13:26:42 
+activities/3/893145-A-LP;!!! ERRORS DETECTED: 24 manifold vertices, 24 manifold edges, 14 intersections
+activities/3/893145-A;!!! ERRORS DETECTED: 192 manifold vertices, 192 manifold edges
+activities/3/893145-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 10 intersections
+activities/3/893145-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges
+activities/3/893145-C-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/893145-C;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges
+COMMIT 2018-11-01 17:44:58 
+activities/3/889060-A-LP;!!! ERRORS DETECTED: 48 zero-length edges, 51 zero-size faces, 26 intersections
+activities/3/889060-A;!!! ERRORS DETECTED: 12 zero-length edges, 12 zero-size faces, 2 intersections
+activities/3/889060-B-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges, 8 zero-length edges, 8 non quads faces
+activities/3/889060-B;!!! ERRORS DETECTED: 64 manifold vertices, 64 manifold edges, 64 zero-length edges
+COMMIT 2018-11-03 17:50:20
+activities/3/889060-A-LP;!!! ERRORS DETECTED: 12 zero-length edges, 12 zero-size faces, 3 intersections
+activities/3/889060-A;No topological errors detected
+activities/3/889060-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges, 16 zero-length edges, 8 non quads faces
+activities/3/889060-B;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 128 zero-length edges
+activities/3/889060-C-LP;No topological errors detected
+activities/3/889060-C;No topological errors detected
+COMMIT 2018-11-03 19:29:01
+activities/3/886467-A-LP;!!! ERRORS DETECTED: 8 manifold vertices, 8 manifold edges
+activities/3/886467-A;!!! ERRORS DETECTED: 128 manifold vertices, 128 manifold edges, 104 intersections
+activities/3/886467-B-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/886467-B;!!! ERRORS DETECTED: 256 manifold vertices, 256 manifold edges
+activities/3/886467-C-LP;!!! ERRORS DETECTED: 16 manifold vertices, 16 manifold edges
+activities/3/886467-C;!!! ERRORS DETECTED: 256 manifold vertices, 256 manifold edges
+activities/3/886467-F-LP;!!! ERRORS DETECTED: 315 manifold vertices, 315 manifold edges, 23 non quads faces, 60 intersections
+activities/3/886467-F;!!! ERRORS DETECTED: 315 manifold vertices, 315 manifold edges, 23 non quads faces, 60 intersections
+exercises/886467-12-LP;!!! ERRORS DETECTED: 2 non quads faces
+exercises/886467-12;No topological errors detected
