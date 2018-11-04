@@ -879,3 +879,6 @@ activities/3/892062-B-LP;!!! ERRORS DETECTED: 3030 zero-length edges, 2994 zero-
 activities/3/892062-B;!!! ERRORS DETECTED: 128 intersections
 activities/3/892062-C-LP;!!! ERRORS DETECTED: 17126 zero-length edges, 15312 zero-size faces, 458 intersections
 activities/3/892062-C;!!! ERRORS DETECTED: 2889 zero-length edges, 2588 zero-size faces, 769 intersections
+COMMIT 2018-11-04 12:49:33
+activities/3/872378-A-LP;!!! ERRORS DETECTED: 100 non quads faces
+activities/3/872378-A;No topological errors detected
