@@ -17,6 +17,7 @@ obj_filename_re = re.compile('([^\/]+(?!\/))\.obj$', re.IGNORECASE)
 under_to_dash = lambda matchgroup: matchgroup.group(0).replace('_', '-')
 
 commit = 'None'
+REV_LOG_FILE = 'revision.log'
 
 ls_cmd = lambda files: 'ls ' + files
 git_status_cmd = lambda *args: 'git status'
@@ -62,10 +63,10 @@ progress = list(map(lambda cmd: subprocess.run(shlex.split(cmd.cmd(cmd.args)),
     stdout=cmd.stdout, stderr=cmd.stderr, universal_newlines=cmd.universal_newlines), cmds))
 
 cmds = [
-        Cmd(git_commit_cmd, PNG_FILES),
+        Cmd(git_commit_cmd, PNG_FILES + [REV_LOG_FILE]),
         Cmd(git_checkout_cmd, 'master'),
-        Cmd(git_checkout_cmd, 'backstage -- ' + ' '.join(PNG_FILES)),
-        Cmd(git_commit_cmd, PNG_FILES),
+        Cmd(git_checkout_cmd, 'backstage -- ' + ' '.join(PNG_FILES + [REV_LOG_FILE])),
+        Cmd(git_commit_cmd, PNG_FILES + [REV_LOG_FILE]),
         Cmd(git_push_cmd),
         ]
 
