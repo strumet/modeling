@@ -2,7 +2,9 @@
 
 A partire dall'immagine raffigurata nel file
 [*palladio.png*](https://github.com/strumet/modeling/blob/master/activities/3/palladio.png)
-modellare i componenti - ara, base, fusto\*, capitello - della colonna qui rappresentata.
+modellare i componenti - ara, base, fusto\*, capitello - della colonna qui rappresentata
+(dalle immagini *EXE-A.png*, *EXE-B.png*, *EXE-C.png*, *EXE-F.png* è possibile vederne le
+rappresentazioni tridimensionali).
 
 Salvare ogni modello **separatamente** in formato **.obj**\*\* e nominare il file secondo forma
 **_NUMEROMATRICOLA_-_INIZIALECOMPONENTE_.obj**.   
