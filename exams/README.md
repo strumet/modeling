@@ -35,9 +35,9 @@ evitando l'uso di sorgenti luminose (se non necessarie alla comprensione dello s
 
 Gli elaborati da produrre sono:
 
-- i **due rendering monomaterici** sopra indicati: le due immagini dovranno avere dimensioni **2480 x 3508 px**
-(orientate orizzontalmente o verticalmente) ed essere salvate in **formato .png** in file nominati secondo la
-forma **NUMEROMATRICOLA-1.png** e **NUMEROMATRICOLA-2.png**
+- i **due rendering monomaterici** sopra indicati: le due immagini dovranno rispettare il rapporto delle fotografie
+usate come riferimento e non superare la dimensione di **3508 px** per lato. Dovranno essere salvate in **formato .png**
+in file nominati secondo la forma **NUMEROMATRICOLA-1.png** e **NUMEROMATRICOLA-2.png**
 - il **modello tridimensionale dell'ambiente** attraverso cui sono stati prodotti i due rendering: il file dovrà
 essere salvato in **formato .obj** e nominato secondo la forma **NUMEROMATRICOLA.obj**
 
@@ -49,9 +49,16 @@ stesse caratteristiche dei corrispettivi ad alta densità ed essere nominati sec
 - **NUMEROMATRICOLA-2-LP.png**
 - **NUMEROMATRICOLA-LP.obj**
 
-I 6 file prodotti dovranno essere **caricati nella cartella _exams_ del proprio repository _github_** ed inoltrati
-al repository del corso tramite **_pull request_** entro i termini indicati dal documento relativo alle modalità
-d'esame pubblicato sulla pagina _BeeP_ del corso.
+Le **4 immagini png** prodotte dovranno essere **caricate nella cartella _exams_ del proprio repository _github_** ed
+inoltrate al repository del corso tramite **_pull request_** entro i termini indicati dal documento relativo alle
+modalità d'esame pubblicato sulla pagina _BeeP_ del corso.
+I **due modelli obj** dovranno invece essere **pubblicati sulla piattaforma _Sketchfab_** (https://sketchfab.com/)
+attraverso l'attivazione di un account personale il cui indirizzo dovrà essere riportato in fase di scelta del tema
+sulla pagina dedicata di BeeP.    
+I 2 modelli dovranno essere **liberamente scaricabili** (vedi [indicazioni
+relative](https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models#Allowing_Users_to_Download))
+e non superare la dimensione di 50MB ciascuno.   
+L'utilizzo della piattaforma Sketchfab è totalmente gratuito.
 
 ## Criteri di valutazione
 
@@ -68,4 +75,6 @@ Il modello prodotto per l'esercitazione finale verrà valutato secondo i seguent
 >\* Tutte le geometrie devono essere _semi-regular quad meshes_
 
 **La media delle valutazioni** ottenute per l'**esercitazione finale** e per le due **prove ex tempore** del
-18.10 e 29.11 (ed eventuale recupero) costituirà **la valutazione finale del corso** di _Strumenti di modellazione dello spazio_
+18.10 e 29.11 (ed eventuale recupero) costituirà **la valutazione finale del corso** di
+_Strumenti di modellazione dello spazio_.   
+
