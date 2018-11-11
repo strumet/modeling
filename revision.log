@@ -486,6 +486,10 @@ activities/2/892863-00-LP;No topological errors detected
 activities/2/892863-00;No topological errors detected
 exercises/886467-10-LP;!!! ERRORS DETECTED: 24 non quads faces, 2 zero-size faces, 4 intersections
 exercises/886467-10;No topological errors detected
+COMMIT 2018-10-17 09:39:32
+activities/1/895835-03A;No topological errors detected
+activities/1/895835-03B;!!! ERRORS DETECTED: 8 non quads faces
+activities/1/895835-03C;!!! ERRORS DETECTED: 24 intersections
 COMMIT 2018-10-17 09:51:31 
 activities/2/886410-14-LP;!!! ERRORS DETECTED: 8 non quads faces, 12 intersections
 activities/2/886410-14;!!! ERRORS DETECTED: 8 intersections
