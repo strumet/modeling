@@ -895,3 +895,6 @@ activities/3/888884-A;No topological errors detected
 COMMIT 2018-11-10 18:05:05
 activities/3/888884-B-LP;!!! ERRORS DETECTED: 4 zero-length edges, 4 zero-size faces, 4 intersections
 activities/3/888884-B;No topological errors detected
+COMMIT 2018-11-11 16:29:00
+activities/3/891271-B-LP;!!! ERRORS DETECTED: 8 zero-length edges, 8 zero-size faces, 15 intersections
+activities/3/891271-B;No topological errors detected
