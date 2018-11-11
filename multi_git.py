@@ -30,6 +30,9 @@ act_dict = {
         'activities/3/': {
             'regex': re.compile('^\d{6}[-_][ABCF](-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/activities/3#activity-3'},
+        'activities/4/': {
+            'regex': re.compile('^\d{6}[-_][RP](-LP)?\.obj$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/activities/4#activity-4'},
         'exercises/': {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/exercises#exercises'},
