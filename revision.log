@@ -898,3 +898,6 @@ activities/3/888884-B;No topological errors detected
 COMMIT 2018-11-11 16:29:00
 activities/3/891271-B-LP;!!! ERRORS DETECTED: 8 zero-length edges, 8 zero-size faces, 15 intersections
 activities/3/891271-B;No topological errors detected
+COMMIT 2018-11-11 17:53:44
+activities/4/886382-R-LP;!!! ERRORS DETECTED: 119 non manifold vertices, 157 non manifold edges
+activities/4/886382-R;!!! ERRORS DETECTED: 1349 non manifold vertices, 1348 non manifold edges
