@@ -901,3 +901,12 @@ activities/3/891271-B;No topological errors detected
 COMMIT 2018-11-11 17:53:44
 activities/4/886382-R-LP;!!! ERRORS DETECTED: 119 non manifold vertices, 157 non manifold edges
 activities/4/886382-R;!!! ERRORS DETECTED: 1349 non manifold vertices, 1348 non manifold edges
+COMMIT 2018-11-12 13:53:42
+activities/3/889399-A-LP;No topological errors detected
+activities/3/889399-A;No topological errors detected
+activities/3/889399-B-LP;No topological errors detected
+activities/3/889399-B;No topological errors detected
+activities/3/889399-C-LP;No topological errors detected
+activities/3/889399-C;No topological errors detected
+activities/4/889399-R-LP;!!! ERRORS DETECTED: 189 non manifold vertices, 226 non manifold edges
+activities/4/889399-R;!!! ERRORS DETECTED: 1253 non manifold vertices, 1252 non manifold edges
