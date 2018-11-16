@@ -47,7 +47,6 @@ mails = {}
 id_re = re.compile('/(\d{6})')
 get_range = lambda li: [val for val in range(li[0], li[1]+1)]
 get_format = lambda x: get_range(list(map(int, x.split('-')))) if '-' in x else map(int, x.split(',')) 
-check_file = lambda x: 'git diff --stat --name-only HEAD...origin/pr/' + str(x)
 get_path_index = lambda x: x.rindex('/') + 1 if '/' in x else 1
 get_path_url = lambda p: " pubblicata all'indirizzo " + act_dict[p]['url'] if p in act_dict else '.'
 mail_body = lambda id_no, wrong_files, path: "Ciao " + STUD_DICT[id_no][1].capitalize() + ",\n" + \
@@ -81,18 +80,20 @@ def main():
         ## Check formal correctness
         if CMD == 'diff':
             reports[str(i)] = []
-            check = subprocess.run(shlex.split(check_file(i)), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
-                    universal_newlines=True)
-            files = check.stdout.strip().split('\n')
+            ## Get filenames from diff output
+            files = list(map(lambda x: x[:x.index('|')].strip(), cmd.stdout.strip().strip().split('\n')[:-1]))
             for f in files:
                 path = f[:get_path_index(f)]
                 filename = f[get_path_index(f):].replace('_', '-')
                 if len(filename) > 0 and (path not in act_dict or not act_dict[path]['regex'].search(filename)):
                     reports[str(i)].append(f)
+            ## Remove empty reports
+            if len(reports[str(i)]) == 0:
+                del reports[str(i)]
             print()
 
-    if CMD == 'diff':
-    ## Create report of wrong files
+    if CMD == 'diff' and len(reports) > 0:
+        ## Create report of wrong files
         for d in reports:
             if len(reports[d]) > 0:
                 id_no = id_re.search(reports[d][0]).group(1)
@@ -100,11 +101,13 @@ def main():
                 for f in reports[d]:
                     print('\t', f)
                 mails[d] = mail_body(id_no, reports[d], path)
-    ## Print out the mail text to send
-        mail = input('\nPrepare mail?\n(y/n): ').lower()
-        if mail == 'y':
-            for m in mails:
-                print('\n' + m + ':\n' + mails[m])
+        ## Print out the mail text to send
+        send_mail = None
+        while send_mail not in ['n', 'y']:
+            send_mail = input('\nPrepare mail?\n(y/n): ').lower()
+            if send_mail == 'y':
+                for m in mails:
+                    print('\n' + m + ':\n' + mails[m])
 
 
 main()
