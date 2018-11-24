@@ -74,6 +74,10 @@ act_dict = {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
                     'midterm_1#first-midterm'},
+        'activities/6/': {
+            'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'activities/6#activity-6'},
         }
 
 ## Functions
