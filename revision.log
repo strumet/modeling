@@ -963,3 +963,6 @@ activities/3/886423-A;No topological errors detected
 COMMIT 2018-11-24 15:19:47
 exercises/891278-13-LP;No topological errors detected
 exercises/891278-13;No topological errors detected
+COMMIT 2018-11-24 16:36:41
+activities/6/893145-65-LP;!!! ERRORS DETECTED: 125 non manifold vertices, 140 non manifold edges, 16 non quads faces
+activities/6/893145-65;!!! ERRORS DETECTED: 958 non manifold vertices, 964 non manifold edges, 186 intersections
