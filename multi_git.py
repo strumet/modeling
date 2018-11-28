@@ -66,6 +66,10 @@ act_dict = {
             'regex': re.compile('^\d{6}(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
                     'activities/5#activity-5'},
+        'activities/6/': {
+            'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'activities/6#activity-6'},
         'exercises/': {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
@@ -74,10 +78,10 @@ act_dict = {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
                     'midterm_1#first-midterm'},
-        'activities/6/': {
+        'midterm_2/': {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
-                    'activities/6#activity-6'},
+                    'midterm_2#second-midterm'},
         }
 
 ## Functions
