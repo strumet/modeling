@@ -4,7 +4,7 @@ Modellare in un'unica mesh l'oggetto indicato nell'elenco in fondo alla pagina
 accanto al proprio numero di matricola.   
 Per analizzare nel dettaglio l'oggetto assegnato si consiglia di 
 visualizzarne la versione dinamica tridimensionale pubblicata
-all'indirizzo *https://sketchfab.com/strumet/collections/strumod*
+all'indirizzo *https://sketchfab.com/strumet/collections/strumod18_act6*
 
 Ogni studente deve consegnare **2 file in formato _obj_\* dello STESSO 
 MODELLO**\*\*:
