@@ -110,7 +110,7 @@ STUD_LIST = [l.split(';') for l in
 STUD_DICT = {l[0]: l[1:4] for l in 
         STUD_LIST if len(l) > 3 and re.match('\d{6}', l[0])}
 ##
-id_re = re.compile('/(\d{6})')
+id_re = re.compile('/?(\d{6})')
 reports = {}
 mails = {}
 commands = {
