@@ -1026,3 +1026,6 @@ activities/6/913553-22;!!! ERRORS DETECTED: 132 non manifold vertices, 132 non m
 COMMIT 2018-11-28 22:33:20
 activities/6/889060-66-LP;!!! ERRORS DETECTED: 88 non manifold vertices, 87 non manifold edges, 6 zero-length edges
 activities/6/889060-66;!!! ERRORS DETECTED: 175 non manifold vertices, 174 non manifold edges, 12 zero-length edges
+COMMIT 2018-11-29 08:02:20
+activities/6/886423-79-LP;!!! ERRORS DETECTED: 103 non manifold vertices, 102 non manifold edges
+activities/6/886423-79;!!! ERRORS DETECTED: 373 non manifold vertices, 372 non manifold edges
