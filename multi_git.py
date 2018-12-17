@@ -70,6 +70,14 @@ act_dict = {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
                     'activities/6#activity-6'},
+        'activities/7/': {
+            'regex': re.compile('^\d{6}[-_][ABC](-LP)?\.png$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'activities/7#activity-7'},
+        'activities/9/': {
+            'regex': re.compile('^\d{6}[^\s]*\..*$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'activities/9#activity-9'},
         'exercises/': {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
