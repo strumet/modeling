@@ -90,6 +90,14 @@ act_dict = {
             'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
                     'midterm_2#second-midterm'},
+        'midterm_1/update/': {
+            'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'midterm_1_update#first-midterm-update'},
+        'midterm_2/update/': {
+            'regex': re.compile('^\d{6}[-_]\d\d(-LP)?\.obj$', re.IGNORECASE),
+            'url': 'https://github.com/strumet/modeling/tree/master/' + \
+                    'midterm_2_update#second-midterm-udpate'},
         'exams/': {
             'regex': re.compile('^\d{6}[-_][12]([_-]LP)?\.png$', re.IGNORECASE),
             'url': 'https://github.com/strumet/modeling/tree/master/' + \
