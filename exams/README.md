@@ -36,7 +36,7 @@ evitando l'uso di sorgenti luminose (se non necessarie alla comprensione dello s
 Gli elaborati da produrre sono:
 
 - i **due rendering monomaterici** sopra indicati: le due immagini dovranno rispettare il rapporto delle fotografie
-usate come riferimento e non superare la dimensione di **3508 px** per lato. Dovranno essere salvate in **formato .png**
+usate come riferimento ed il più lungo dei due lati deve misurare **3508 px**. Dovranno essere salvate in **formato .png**
 in file nominati secondo la forma **NUMEROMATRICOLA-1.png** e **NUMEROMATRICOLA-2.png**
 - il **modello tridimensionale dell'ambiente** attraverso cui sono stati prodotti i due rendering: il file dovrà
 essere salvato in **formato .obj** e nominato secondo la forma **NUMEROMATRICOLA.obj**
