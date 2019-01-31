@@ -43,9 +43,9 @@ nel modello su cui è applcato l'*OpenSubdiv
 -	......	>	EXE-08
 -	886952	>	EXE-11
 - 	......	>	EXE-23
+-	893152	>	EXE-07
+-	914744	>	EXE-16
 <!---
--		>	EXE-07
--		>	EXE-16
 -		>	EXE-49
 -		>	EXE-28
 -		>	EXE-34
