@@ -37,11 +37,11 @@ nel modello su cui è applcato l'*OpenSubdiv
 
 ## Lista dei modelli:
 
+-	888831	>	EXE-63
+-	893566	>	EXE-60
+-	914571	>	EXE-12
+-	914744	>	EXE-08
 <!---
--		>	EXE-63
--		>	EXE-60
--		>	EXE-12
--		>	EXE-08
 -		>	EXE-11
 -		>	EXE-23
 -		>	EXE-07
