@@ -39,7 +39,7 @@ Gli elaborati da produrre sono:
 usate come riferimento ed il più lungo dei due lati deve misurare **3508 px**. Dovranno essere salvate in **formato .png**
 in file nominati secondo la forma **NUMEROMATRICOLA-1.png** e **NUMEROMATRICOLA-2.png**
 - il **modello tridimensionale dell'ambiente** attraverso cui sono stati prodotti i due rendering: il file dovrà
-essere salvato in **formato .obj** e nominato secondo la forma **NUMEROMATRICOLA.obj**
+essere salvato in **formato .obj** e nominato secondo la forma **NUMEROMATRICOLA.obj**. Nel caso in cui i due rendering rappresentassero due ambienti differenti è possibile produrre due diversi file obj denominati secondo la forma **NUMEROMATRICOLA-1.obj** e **NUMEROMATRICOLA-2.obj**
 
 I due rendering ed il modello dovranno, inoltre, essere consegnati anche in **versione "low poly"** attraverso la
 disattivazione dell'algoritmo di suddivisione. I file prodotti per la versione "low poly" dovranno mantenere le
@@ -47,12 +47,12 @@ stesse caratteristiche dei corrispettivi ad alta densità ed essere nominati sec
 
 - **NUMEROMATRICOLA-1-LP.png**
 - **NUMEROMATRICOLA-2-LP.png**
-- **NUMEROMATRICOLA-LP.obj**
+- **NUMEROMATRICOLA-LP.obj** (*NUMEROMATRICOLA-1-LP.obj* e *NUMEROMATRICOLA-2-LP.obj* nel caso di ambienti separati)
 
 Le **4 immagini png** prodotte dovranno essere **caricate nella cartella _exams_ del proprio repository _github_** ed
 inoltrate al repository del corso tramite **_pull request_** entro i termini indicati dal documento relativo alle
 modalità d'esame pubblicato sulla pagina _BeeP_ del corso.
-I **due modelli obj** dovranno invece essere **pubblicati sulla piattaforma _Sketchfab_** (https://sketchfab.com/)
+I **modelli obj** dovranno invece essere **pubblicati sulla piattaforma _Sketchfab_** (https://sketchfab.com/)
 attraverso l'attivazione di un account personale il cui indirizzo dovrà essere riportato in fase di scelta del tema
 sulla pagina dedicata di BeeP.    
 I 2 modelli dovranno essere **liberamente scaricabili** (vedi [indicazioni
