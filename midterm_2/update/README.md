@@ -36,12 +36,12 @@ nel modello su cui è applcato l'*OpenSubdiv
 
 ## Lista dei modelli:
 
+-	886462	>	EXE-48
+-	888831	>	EXE-51
+-	893566	>	EXE-37
+-	914571	>	EXE-26
+-	914744	>	EXE-78
 <!---
--		>	EXE-48
--		>	EXE-51
--		>	EXE-37
--		>	EXE-26
--		>	EXE-78
 -		>	EXE-14
 -		>	EXE-83
 -		>	EXE-10
