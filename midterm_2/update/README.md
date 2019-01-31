@@ -36,6 +36,7 @@ nel modello su cui è applcato l'*OpenSubdiv
 
 ## Lista dei modelli:
 
+<!---
 -		>	EXE-48
 -		>	EXE-51
 -		>	EXE-37
@@ -132,3 +133,4 @@ nel modello su cui è applcato l'*OpenSubdiv
 -		>	EXE-08
 -		>	EXE-05
 -		>	EXE-61
+--->
