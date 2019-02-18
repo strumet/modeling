@@ -1228,3 +1228,8 @@ activities/2/891014-18-LP;!!! ERRORS DETECTED: 8 non manifold vertices, 8 non ma
 activities/2/891014-18;!!! ERRORS DETECTED: 8 non manifold vertices, 8 non manifold edges, 2 intersections
 activities/6/891014-16-LP;!!! ERRORS DETECTED: 191 non manifold vertices, 193 non manifold edges, 13 non quads faces, 1 zero-size faces, 10 intersections
 activities/6/891014-16;!!! ERRORS DETECTED: 961 non manifold vertices, 963 non manifold edges, 13 non quads faces, 1 zero-size faces, 20 intersections
+COMMIT 2019-02-18 14:37:06
+activities/2/891014-18-LP;No topological errors detected
+activities/2/891014-18;No topological errors detected
+activities/6/891014-16-LP;!!! ERRORS DETECTED: 110 non manifold vertices, 110 non manifold edges
+activities/6/891014-16;!!! ERRORS DETECTED: 880 non manifold vertices, 880 non manifold edges
