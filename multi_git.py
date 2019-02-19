@@ -139,7 +139,9 @@ reports = {}
 mails = {}
 commands = {
         'diff': lambda x: 'git diff --stat HEAD...origin/pr/' + str(x),
-        'merge': lambda x: 'git merge origin/pr/' + str(x)
+        'merge': lambda x: 'git merge origin/pr/' + str(x),
+        'show': lambda x, filename: 'git show origin/pr/' + str(x) + \
+                ':"' + filename + '" | file -'
         }
 
 
@@ -159,6 +161,9 @@ def main():
             files = list(map(lambda x: x[:x.index('|')].strip(),
                 cmd.stdout.strip().strip().split('\n')[:-1]))
             for f in files:
+                if f.startswith('exams'):
+                    print(f,)
+                    cmd = subprocess.run(commands['show'](i, f), shell=True)
                 path = f[:get_path_index(f)]
                 filename = f[get_path_index(f):].replace('_', '-')
                 if len(filename) > 0 and (path not in act_dict or
