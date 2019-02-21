@@ -45,15 +45,15 @@ nel modello su cui è applcato l'*OpenSubdiv
 -	893152	>	EXE-83
 -	914571	>	EXE-10
 -	888831	>	EXE-82
+-	886382	>	EXE-15
+-	886452	>	EXE-57
+-	887436	>	EXE-88
+-	888150	>	EXE-30
+-	890880	>	EXE-75
+-	893259	>	EXE-59
+-	893365	>	EXE-54
+-	893606	>	EXE-06
 <!---
--		>	EXE-15
--		>	EXE-57
--		>	EXE-88
--		>	EXE-30
--		>	EXE-75
--		>	EXE-59
--		>	EXE-54
--		>	EXE-06
 -		>	EXE-33
 -		>	EXE-25
 -		>	EXE-01
