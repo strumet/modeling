@@ -13,7 +13,7 @@ progettato** rispettando i principi di **correttezza topologica** e le **prassi 
 
 L'oggetto dell'esercitazione consiste nella **modellazione di un interno architettonico reale** di recente
 realizzazione e liberamente scelto dallo studente.   
-L'ambiente deve essere **parte di un'architettura pubblicata nel 2018 dal sito [_archdaily.com_](http://archdaily.com/)**
+L'ambiente deve essere **parte di un'architettura pubblicata nel 2018 (o successivamente) dal sito [_archdaily.com_](http://archdaily.com/)**
 ed essere **sufficientemente documentato** da foto e disegni.
 
 La scelta dell'ambiente da modellare dovrà essere **sottoposta preventivamente al docente affinché** venga verificata
