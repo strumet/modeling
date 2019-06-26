@@ -39,19 +39,19 @@ nel modello su cui è applcato l'*OpenSubdiv
 
 -	888831	>	EXE-63
 -	......	>	EXE-60
--	914571	>	EXE-12
+-	......	>	EXE-12
 -	......	>	EXE-08
 -	886952	>	EXE-11
 - 	......	>	EXE-23
 -	893152	>	EXE-07
--	914744	>	EXE-16
+-	......	>	EXE-16
 -	886462	>	EXE-49
--	893566	>	EXE-28
+-	......	>	EXE-28
 -	886396	>	EXE-34
 -	886410	>	EXE-39
--	886429	>	EXE-71
+-	......	>	EXE-71
 -	886454	>	EXE-55
--	889597	>	EXE-56
+-	......	>	EXE-56
 -	889606	>	EXE-62
 -	889934	>	EXE-38
 -	891271	>	EXE-53
@@ -64,7 +64,7 @@ nel modello su cui è applcato l'*OpenSubdiv
 -	893327	>	EXE-67
 -	893569	>	EXE-05
 -	893001	>	EXE-30
--	849722	>	EXE-69
+-	......	>	EXE-69
 -	886429	>	EXE-21
 -	849722	>	EXE-54
 -	886467	>	EXE-77
@@ -75,8 +75,8 @@ nel modello su cui è applcato l'*OpenSubdiv
 -	914744	>	EXE-17
 -	893566	>	EXE-59
 -	913553	>	EXE-14
+-	893077	>	EXE-72
 <!---
--		>	EXE-72
 -		>	EXE-46
 -		>	EXE-43
 -		>	EXE-73
