@@ -74,7 +74,7 @@ Il modello prodotto per l'esercitazione finale verrà valutato secondo i seguent
 
 >\* Tutte le geometrie devono essere _semi-regular quad meshes_
 
-**La media delle valutazioni** ottenute per l'**esercitazione finale** e per le due **prove ex tempore** del
+**La somma delle valutazioni** ottenute per l'**esercitazione finale** e per le due **prove ex tempore** del
 18.10 e 29.11 (ed eventuale recupero) costituirà **la valutazione finale del corso** di
 _Strumenti di modellazione dello spazio_.   
 
