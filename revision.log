@@ -1370,3 +1370,43 @@ activities/2/892759-02;!!! ERRORS DETECTED: 8 non manifold vertices, 8 non manif
 COMMIT 2019-07-06 15:06:24
 activities/6/892759-06-LP;!!! ERRORS DETECTED: 160 non manifold vertices, 181 non manifold edges, 3 non quads faces, 12 intersections
 activities/6/892759-06;!!! ERRORS DETECTED: 439 non manifold vertices, 416 non manifold edges, 6 non quads faces, 2 zero-size faces, 96 intersections
+COMMIT 2019-07-26 16:06:04
+activities/9/892863;!!! ERRORS DETECTED: 151 non manifold vertices, 201 non manifold edges, 86 zero-length edges, 16 non quads faces, 71 zero-size faces, 476 intersections
+midterm_1/update/886436-35-LP;No topological errors detected
+midterm_1/update/886436-35;No topological errors detected
+midterm_1/update/888682-66-LP;No topological errors detected
+midterm_1/update/888682-66;No topological errors detected
+midterm_1/update/889992-73-LP;!!! ERRORS DETECTED: 4 non quads faces
+midterm_1/update/889992-73;No topological errors detected
+midterm_1/update/891003-48-LP;No topological errors detected
+midterm_1/update/891003-48;No topological errors detected
+midterm_1/update/892759-46-LP;!!! ERRORS DETECTED: 2 intersections
+midterm_1/update/892759-46;!!! ERRORS DETECTED: 6 intersections
+midterm_1/update/892915-19-LP;!!! ERRORS DETECTED: 1 non quads faces
+midterm_1/update/892915-19;No topological errors detected
+midterm_1/update/893569-42-LP;!!! ERRORS DETECTED: 20 intersections
+midterm_1/update/893569-42;!!! ERRORS DETECTED: 6 intersections
+midterm_1/update/895644-47-LP;No topological errors detected
+midterm_1/update/895644-47;No topological errors detected
+midterm_1/update/896435-75-LP;!!! ERRORS DETECTED: 20 non manifold vertices, 20 non manifold edges, 12 non quads faces
+midterm_1/update/896435-75;!!! ERRORS DETECTED: 80 non manifold vertices, 80 non manifold edges
+midterm_2/update/886396-71-LP;!!! ERRORS DETECTED: 100 non manifold vertices, 100 non manifold edges, 40 intersections
+midterm_2/update/886396-71;!!! ERRORS DETECTED: 200 non manifold vertices, 200 non manifold edges, 55 intersections
+midterm_2/update/886429-62-LP;!!! ERRORS DETECTED: 113 non manifold vertices, 112 non manifold edges, 34 zero-length edges, 34 zero-size faces, 22 intersections
+midterm_2/update/886429-62;!!! ERRORS DETECTED: 341 non manifold vertices, 340 non manifold edges
+midterm_2/update/886436-21-LP;!!! ERRORS DETECTED: 154 non manifold vertices, 154 non manifold edges, 558 zero-length edges, 6 non quads faces, 517 zero-size faces, 170 intersections
+midterm_2/update/886436-21;!!! ERRORS DETECTED: 889 non manifold vertices, 888 non manifold edges, 61 intersections
+midterm_2/update/888682-55-LP;!!! ERRORS DETECTED: 62 non manifold vertices, 62 non manifold edges
+midterm_2/update/888682-55;!!! ERRORS DETECTED: 124 non manifold vertices, 124 non manifold edges
+midterm_2/update/889992-35-LP;!!! ERRORS DETECTED: 62 non manifold vertices, 62 non manifold edges
+midterm_2/update/889992-35;!!! ERRORS DETECTED: 496 non manifold vertices, 496 non manifold edges
+midterm_2/update/891003-46-LP;!!! ERRORS DETECTED: 111 non manifold vertices, 109 non manifold edges, 9 zero-length edges
+midterm_2/update/891003-46;!!! ERRORS DETECTED: 366 non manifold vertices, 364 non manifold edges, 36 zero-length edges
+midterm_2/update/892759-22-LP;!!! ERRORS DETECTED: 132 non manifold vertices, 149 non manifold edges, 19 non quads faces, 18 intersections
+midterm_2/update/892759-22;!!! ERRORS DETECTED: 453 non manifold vertices, 463 non manifold edges, 2 non quads faces, 2 zero-size faces, 180 intersections
+midterm_2/update/893569-79-LP;!!! ERRORS DETECTED: 92 non manifold vertices, 92 non manifold edges, 50 zero-length edges, 16 non quads faces, 47 zero-size faces, 39 intersections
+midterm_2/update/893569-79;!!! ERRORS DETECTED: 184 non manifold vertices, 184 non manifold edges, 24 intersections
+midterm_2/update/895644-03-LP;!!! ERRORS DETECTED: 110 non manifold vertices, 110 non manifold edges
+midterm_2/update/895644-03;!!! ERRORS DETECTED: 440 non manifold vertices, 440 non manifold edges
+midterm_2/update/896435-81-LP;!!! ERRORS DETECTED: 89 non manifold vertices, 91 non manifold edges, 4 zero-length edges, 118 non quads faces, 4 zero-size faces, 68 intersections
+midterm_2/update/896435-81;!!! ERRORS DETECTED: 178 non manifold vertices, 178 non manifold edges, 228 intersections
